@@ -1,0 +1,70 @@
+---
+layout: post
+published: true
+title: ' Windows 10 Enterprise LTSC 2019'
+subtitle: Download Links Available. Windows 10 LTSB Users Rejoice!
+bigimg: >-
+  https://www.windowslatest.com/wp-content/uploads/2018/06/Windows-10-June-Update.jpg
+share-img: 'https://i.imgur.com/QuHTJZf.png'
+tags:
+  - Windows 10
+  - LTSB/LTSC
+---
+### The next LTSC release, Windows 10 Enterprise LTSC 2019 is available for Download today!
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40AzimsLives)](https://twitter.com/AzimsLives)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/AzimsTech)
+
+![Windows 10 Enterpise LTSC 2019 Screenshot](https://i.imgur.com/3OSQ1oD.png)
+
+In keeping with the previous Long-Term Servicing Channel releases, this release will have the same features as the Windows 10 Semi-Annual Channel release made available at the same time – with the usual exceptions (including apps that are often updated with additional functionality, including the in-box apps, Microsoft Edge, and Cortana). 
+
+This new release will also add support for the latest generations of processors, per the standard silicon support policy. This release of Windows 10 Enterprise LTSC will be released under our fixed lifecycle policy with a term of 5 years of mainstream support and 5 years of extended support.
+
+
+
+
+What's New Since LTSB 2016?
+=================
+
+- New Start, Taskbar, Action Center, Task View, Search and Setting UI updated to Microsoft's Fluent Design.
+- Dark Theme support for File Explorer
+- Snip & Sketch feature ([partially working](https://forums.mydigitallife.net/threads/discussion-windows-10-enterprise-n-ltsc-2019.76325/page-44#post-1469115))
+- Timeline feature support in Task View (Win + Tab)
+- New "Ultimate Performance" introduced in Power Plan setting
+- Clipboard History feature by pressing Win + V
+- Emoji Panel (Win + .)
+- Windows Subsystem Support (Not tested yet!)
+- More... [_Read This_](https://changewindows.org/build/17763)
+
+Download Here
+=================
+
+{: .box-note}
+**64-bit Version:** [en_windows_10_enterprise_ltsc_2019_x64_dvd_74865958.iso](https://drive.google.com/open?id=1AFsHUbPoMfWfAcNGwU9KPo5A8cFjYAxk) 
+**SHA-1:** 0b8476eff31f957590ade6fe671f16161037d3f6 
+
+{: .box-note}
+**32-bit Version:** [en_windows_10_enterprise_ltsc_2019_x86_dvd_97449f83.iso](https://drive.google.com/open?id=1mhNA6HAbaZ_Tfm4jqqOAPvEddWb_H7l0) 
+**SHA-1:** a935986f5a84af94fce423c0a6bdd2f743e5b92d 
+
+Activation
+=================
+
+For activation please use this awesome tool by s1ave77 from MDL forums:
+
+{: .box-note}
+Digital License (HWID) Generation Method (without KMS with 7047 days license) 
+**Download:** [hwid.kms19.gen.mk4.exe](https://drive.google.com/open?id=1hhyrM0c_J1QMPNPv-XCLy_y2Ix7cBCK7)
+
+Research and alternatives
+===============================
+
+* [The pros and cons of LTSC in the enterprise & FAQ ](https://www.youtube.com/watch?v=sJAGkFuaoK0) 
+* [Nsane Forums](https://www.nsaneforums.com/topic/312871-windows-10-digital-license-hwid-kms19™-generation)  (activation tool)
+* [MDL Threads](https://forums.mydigitallife.net/threads/discussion-windows-10-enterprise-n-ltsc-2019.76325/)
+
+
+
+
+
