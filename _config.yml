@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://username.github.io"
+url: "http://AzimsTech.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: AzimsTech
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Tech Tips | Reviews | PC Builds
 
 # --- Navigation bar options --- #
 
@@ -25,10 +25,10 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Blog repo: "https://github.com/AzimsTech/AzimsTech.github.io/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  GitHub: "https://github.com/AzimsTech/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -42,9 +42,9 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
+navbar-col: "#234863"
+navbar-text-col: "#F5F5F5"
+navbar-children-col: "#234863"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
@@ -64,7 +64,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Azims Lives
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -72,11 +72,11 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
-#  reddit: yourname
+  email: "AzimsTech@gmail.com"
+  facebook: AzimsTech
+  github: AzimsTech
+  twitter: AzimsLives
+  reddit: Azims
 #  google-plus: +DeanAttali
 #  linkedin: daattali
 #  xing: yourname
@@ -86,7 +86,7 @@ social-network-links:
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
+  steam: AzimsLives
 #  twitch: yourname
 #  yelp: yourname
 
@@ -127,7 +127,7 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 # disqus: ""
 
 # To use Facebook Comments, fill in a Facebook App ID
-# fb_comment_id: ""
+ fb_comment_id: "2212359552421350"
 
 # --- Misc --- #
 
@@ -145,7 +145,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Asia/Kuala_Lumpur"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
