@@ -109,12 +109,8 @@ img {
 
 .navbar-custom {
   background-color: {{ site.navbar-col }};
-<<<<<<< HEAD
   box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   border-bottom: 1px solid #234863;
-=======
-  border-bottom: 1px solid #EAEAEA;
->>>>>>> parent of 5a7e177... navbar shadow
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img }});
