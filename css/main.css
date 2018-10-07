@@ -260,7 +260,7 @@ img {
   }
   .navbar-custom .nav .navlinks-container .navlinks-children a {
     padding-left: 10px;
-    border: 1px solid #eaeaea;
+    border: 1px solid #1d1d1d;
     border-width: 0 1px 1px;
   }
 }
