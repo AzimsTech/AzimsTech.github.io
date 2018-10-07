@@ -109,8 +109,7 @@ img {
 
 .navbar-custom {
   background-color: {{ site.navbar-col }};
-  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-  border-bottom: 1px solid #234863;
+  border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img }});
@@ -441,10 +440,8 @@ footer .theme-by {
 /* --- Post and page headers --- */
 
 .intro-header {
-  padding: 131px 0 80px;
+  margin: 80px 0 20px;
   position: relative;
-  background-color: #234863;
-
 }
 .intro-header.big-img {
   background: no-repeat center center;
@@ -471,7 +468,6 @@ footer .theme-by {
 }
 .intro-header .page-heading {
   text-align: center;
-  color: #FFF;
 }
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
@@ -524,7 +520,7 @@ footer .theme-by {
 }
 @media only screen and (min-width: 768px) {
   .intro-header {
-    padding-top: 160px;
+    margin-top: 130px;
   }
   .intro-header.big-img {
     margin-top: 91px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
