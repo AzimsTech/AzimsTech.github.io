@@ -443,11 +443,6 @@ footer .theme-by {
   margin: 80px 0 20px;
   position: relative;
 }
-.intro-header-home { /*home header */
-  padding: : 80px 0 20px;
-  position: relative;
-  background-color: #234863;
-}
 .intro-header.big-img {
   background: no-repeat center center;
   -webkit-background-size: cover;
@@ -527,9 +522,6 @@ footer .theme-by {
   .intro-header {
     margin-top: 130px;
   }
-  .intro-header-home { /* home header */
-    padding-top: 130px;
-  }  
   .intro-header.big-img {
     margin-top: 91px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
   }
