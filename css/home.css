@@ -5,9 +5,9 @@ layout: null
 /* --- Post and page headers --- */
 
 .intro-header {
-  padding: 80px 0 80px;
+  padding: 80px 0 80px !important;
   position: relative;
-  background-color: #234863;
+  background-color: #234863 !important;
 }
 .intro-header.big-img {
   background: no-repeat center center;
@@ -88,7 +88,7 @@ layout: null
 }
 @media only screen and (min-width: 768px) {
   .intro-header {
-    padding-top: 80px;
+    padding-top: 80px !important;
   }
   .intro-header.big-img {
     margin-top: 91px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
