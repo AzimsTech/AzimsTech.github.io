@@ -440,7 +440,7 @@ footer .theme-by {
 /* --- Post and page headers --- */
 
 .intro-header {
-  padding: : 80px 0 20px;
+  padding: 80px 0 80px;
   position: relative;
   background-color: #234863;
 }
