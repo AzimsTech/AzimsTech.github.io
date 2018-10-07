@@ -1,7 +1,9 @@
 ---
 layout: null
-
 ---
+
+@import url("pygment_highlights.css");
+
 /* --- Post and page headers --- */
 
 .intro-header {
