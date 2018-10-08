@@ -23,7 +23,9 @@ description: Tech Tips | Reviews | PC Builds
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: 
+    - Profile: "aboutme"
+    - Social Media: "#foot"
   Resources:
     - Blog repo: "https://github.com/AzimsTech/AzimsTech.github.io/"
     - Learn markdown: "http://www.markdowntutorial.com/"
