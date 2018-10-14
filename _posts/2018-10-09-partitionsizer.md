@@ -11,7 +11,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 
 
-<div class="card text-center">
+<div class="card">
   <h5 class="card-header">Application</h5>
   <div class="card-body">
     <h5 class="card-title">Special title treatment</h5>
