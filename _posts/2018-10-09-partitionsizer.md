@@ -14,31 +14,50 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 
     
+</form>
 
-<form class="navbar-form navbar-left">
-  <div class="form-group">
-    <div class="input-group">
-      <input id="targetSize" type="text" class="form-control" placeholder="Your target size...">
-      <div class="input-group-btn">
-          <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Action <span class="caret"></span></button>
-          <ul class="dropdown-menu dropdown-menu-right">
-            <li><a href="#">GB</a></li>
-            <li><a href="#">TB</a></li>
-            <li><a href="#">MB</a></li>
-          </ul>
-      </div><!-- /btn-group -->
-    </div>
+  <div class="container">
+      <div class="row">
+          <div class="form-group">
+              <label for="inpuFname">Target size</label>
+              <div class="input-group">
+                  <input type="text" value="" class="form-control" name="text">
+                  <div class="input-group-btn bs-dropdown-to-select-group">
+                      <button type="button" class="btn btn-default dropdown-toggle as-is bs-dropdown-to-select" data-toggle="dropdown">
+                          <span data-bind="bs-drp-sel-label">Select...</span>
+                          <input type="hidden" name="selected_value" data-bind="bs-drp-sel-value" value="">
+                          <span class="caret"></span>
+                          <span class="sr-only">Toggle Dropdown</span>
+                      </button>
+                      <ul class="dropdown-menu" role="menu" style="">
+                          <li data-value="1"><a href="#">GB</a></li>
+                          <li data-value="2"><a href="#">TB</a></li>
+                          <li data-value="3"><a href="#">MB</a></li>
+                      </ul>
+                  </div>
+              </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+          </div>
+          Check the hidden field for values!
+      </div>
   </div>
-  <button type="submit" class="btn btn-primary">Submit</button>
 </form>
 
 <br>
 
 <script>
 
-  $(".dropdown-menu li a").click(function(){
-    var selText = $(this).text();
-    $(this).parents('.btn-group').find('.dropdown-toggle').html(selText+' <span class="caret"></span>');
+  $(document).ready(function(e){
+      $( document ).on( 'click', '.bs-dropdown-to-select-group .dropdown-menu li', function( event ) {
+        var $target = $( event.currentTarget );
+      $target.closest('.bs-dropdown-to-select-group')
+        .find('[data-bind="bs-drp-sel-value"]').val($target.attr('data-value'))
+        .end()
+        .children('.dropdown-toggle').dropdown('toggle');
+      $target.closest('.bs-dropdown-to-select-group')
+          .find('[data-bind="bs-drp-sel-label"]').text($target.context.textContent);
+      return false;
+    });
   });
 
 </script>
