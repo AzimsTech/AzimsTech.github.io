@@ -11,22 +11,23 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
     
 
-<form>
-    <div class="input-group">
-      <label for="targetSize">Target size</label>
-      <input id="targetSize" type="text" class="form-control" aria-label="..." placeholder="Your target size">
-      <div class="input-group-btn">
+
+
+    
+
+<form class="navbar-form navbar-left">
+  <div class="form-group">
+    <input id="targetSize" type="text" class="form-control" placeholder="Your target size...">
+    <div class="input-group-btn">
         <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Action <span class="caret"></span></button>
         <ul class="dropdown-menu dropdown-menu-right">
           <li><a href="#">GB</a></li>
           <li><a href="#">TB</a></li>
           <li><a href="#">MB</a></li>
         </ul>
-      </div><!-- /btn-group -->
-    </div><!-- /input-group -->
-    <button type="submit" class="btn btn-primary">Submit</button>
+    </div><!-- /btn-group -->
+  </div>
+  <button type="submit" class="btn btn-default">Submit</button>
 </form>
 
-    
-
-
+<br>
