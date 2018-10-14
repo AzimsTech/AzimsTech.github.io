@@ -13,8 +13,8 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 <form>
     <div class="input-group">
-      <label for="targetSized">Target size</label>
-      <input id="targetSized" type="text" class="form-control" aria-label="..." placeholder="Your target size">
+      <label for="targetSize">Target size</label>
+      <input id="targetSize" type="text" class="form-control" aria-label="..." placeholder="Your target size">
       <div class="input-group-btn">
         <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Action <span class="caret"></span></button>
         <ul class="dropdown-menu dropdown-menu-right">
