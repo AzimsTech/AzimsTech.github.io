@@ -8,12 +8,8 @@ subtitle: Let's get old regular chrome back
 
 Let start by changing some flag. 
 
-## Now type this into url box:
-```
-[chrome://flags/]
-```
 
-### To get the old "new tab page":
+## To get the old "new tab page":
 ```
 chrome://flags/#use-google-local-ntp
 ```
