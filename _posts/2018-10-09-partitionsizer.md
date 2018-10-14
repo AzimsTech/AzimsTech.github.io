@@ -14,8 +14,6 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 
     
-<form>
-
   <div class="container">
       <div class="row">
           <div class="form-group">
@@ -41,23 +39,22 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
           Check the hidden field for values!
       </div>
   </div>
-</form>
 
 <br>
 
 <script>
 
-  $(document).ready(function(e){
-      $( document ).on( 'click', '.bs-dropdown-to-select-group .dropdown-menu li', function( event ) {
-        var $target = $( event.currentTarget );
-      $target.closest('.bs-dropdown-to-select-group')
-        .find('[data-bind="bs-drp-sel-value"]').val($target.attr('data-value'))
-        .end()
-        .children('.dropdown-toggle').dropdown('toggle');
-      $target.closest('.bs-dropdown-to-select-group')
-          .find('[data-bind="bs-drp-sel-label"]').text($target.context.textContent);
-      return false;
-    });
+$(document).ready(function(e){
+    $( document ).on( 'click', '.bs-dropdown-to-select-group .dropdown-menu li', function( event ) {
+      var $target = $( event.currentTarget );
+    $target.closest('.bs-dropdown-to-select-group')
+      .find('[data-bind="bs-drp-sel-value"]').val($target.attr('data-value'))
+      .end()
+      .children('.dropdown-toggle').dropdown('toggle');
+    $target.closest('.bs-dropdown-to-select-group')
+        .find('[data-bind="bs-drp-sel-label"]').text($target.context.textContent);
+    return false;
   });
+});
 
 </script>
