@@ -17,8 +17,8 @@ Let start by changing some flag.
 ```
 chrome://flags/#use-google-local-ntp
 ```
-**Enable using the Google local NTP** - Default --> **Enable**
+Enable using the Google local NTP → [Default] → **Enable**
 ```
 chrome://flags/#ntp-ui-md
 ```
-**New Tab Page Material Design UI** - Default --> **Disable**
+New Tab Page Material Design UI → [Default] → **Disable**
