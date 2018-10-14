@@ -32,3 +32,4 @@ Xiaomi is so different now. Their used to have great developer support for custo
 
 * [PSA: Xiaomi has doubled the unlock waiting time. It's now 720 hours.](https://www.reddit.com/r/Xiaomi/comments/9cas7m/psa_xiaomi_has_doubled_the_unlock_waiting_time/)
 * [https://www.androidauthority.com/xiaomi-pocophone-f1-bootloader-unlock-902114/](https://www.androidauthority.com/xiaomi-pocophone-f1-bootloader-unlock-902114/)
+* [https://en.miui.com/thread-3729956-1-1.html](https://en.miui.com/thread-3729956-1-1.html)
