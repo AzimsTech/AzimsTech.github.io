@@ -14,7 +14,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 
     
-</form>
+<form>
 
   <div class="container">
       <div class="row">
