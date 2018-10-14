@@ -13,7 +13,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
   <div class="row">
     <div class="col-lg-6">
       <div class="input-group">
-        <input id="targetSize" type="text" class="form-control" aria-label="..." placeholder="Target partition size">
+        <input id="targetSize" type="text" class="form-control" aria-label="..." placeholder="Desired partition size">
         <div class="input-group-btn">
           <button id="unit" type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">GB <span class="caret"></span></button>
           <ul class="dropdown-menu dropdown-menu-right">
@@ -46,8 +46,9 @@ function calculate(){
 
          if(units=="gb"){
         ans = ((Number(targetSize)*1000)*1.024)+1024;
+          if(targetSize<100)
        
-      }
+        }
       else if(units=="tb"){
           ans = ((Number(targetSize)*1000000)*1.048576)+4096;
       }
