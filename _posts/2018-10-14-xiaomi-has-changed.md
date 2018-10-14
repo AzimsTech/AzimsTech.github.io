@@ -18,3 +18,11 @@ Xiaomi is so different now. Their used to have great developer support for custo
 
 * Monthly android security update 
 * Affordable redmi devices
+
+## People didn't like MIUI and they knows it
+
+[Xiaomi Deletes Twitter Poll when more people prefer Android One over MIUI] (https://www.xda-developers.com/xiaomi-deletes-twitter-poll-android-one-miui/)
+
+## Resources
+
+* [PSA: Xiaomi has doubled the unlock waiting time. It's now 720 hours.](https://www.reddit.com/r/Xiaomi/comments/9cas7m/psa_xiaomi_has_doubled_the_unlock_waiting_time/)
