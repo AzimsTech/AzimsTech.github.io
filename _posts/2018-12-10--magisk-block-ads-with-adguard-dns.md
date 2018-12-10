@@ -32,5 +32,5 @@ Thank to our friend a [XDA](https://forum.xda-developers.com/apps/magisk/module-
 
 Research
 =======================
-[https://github.com/StevenBlack/hosts/issues/93](https://github.com/StevenBlack/hosts/issues/93)
-[https://forum.xda-developers.com/android/general/adblocking-android-huge-hosts-file-t3300882az](https://forum.xda-developers.com/android/general/adblocking-android-huge-hosts-file-t3300882az)
+- [https://github.com/StevenBlack/hosts/issues/93](https://github.com/StevenBlack/hosts/issues/93)
+- [https://forum.xda-developers.com/android/general/adblocking-android-huge-hosts-file-t3300882az](https://forum.xda-developers.com/android/general/adblocking-android-huge-hosts-file-t3300882az)
