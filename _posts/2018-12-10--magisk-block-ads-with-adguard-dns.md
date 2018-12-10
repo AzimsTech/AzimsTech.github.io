@@ -16,7 +16,7 @@ tags:
 
 ![AdGuard](https://i.imgur.com/0etFpkn.png)
 
-HOSTS file was never designed to be an ad-blocking solution, so this is not only on your end or affects only a few people, that's quite normal. CPU usage will rising very high because the dns service tries to resolve all domains one by one which is ineffective.
+HOSTS file was never designed to be an ad-blocking solution. CPU usage will rising very high because the dns service tries to resolve all domains one by one which is ineffective.
 
 The only we can do is use ad blocking DNS server which is more efficient when it comes to blacklisting domains.
 
