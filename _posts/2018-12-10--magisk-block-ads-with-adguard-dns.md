@@ -29,3 +29,7 @@ Thank to our friend a [XDA](https://forum.xda-developers.com/apps/magisk/module-
 [Original XDA Thread](https://forum.xda-developers.com/apps/magisk/module-adguarddns-ad-free-experience-t3848166)
 
 [Download AdGuard DNS Module Here](https://drive.google.com/uc?id=108t_u0FfcMpToOxBCi9nbcHMSl43XtwK)
+
+Research
+=======================
+[https://github.com/StevenBlack/hosts/issues/93](https://github.com/StevenBlack/hosts/issues/93)
