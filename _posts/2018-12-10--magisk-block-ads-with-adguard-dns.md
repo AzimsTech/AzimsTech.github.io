@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: '[Magisk] Block Ads With AdGuard DNS'
-subtitle: Hosts file ad-blocking altenative
+subtitle: Hosts file ad-blocking alternative
 date: '2018-12-10'
 share-img: 'https://i.imgur.com/0etFpkn.png'
 tags:
