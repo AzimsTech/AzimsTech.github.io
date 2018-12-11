@@ -24,7 +24,7 @@ AdGuard DNS is an alternative approach to ad blocking based on intercepting and 
 
 AdGuard DNS Magisk Module
 ============================
-Thank to our friend a [XDA](https://forum.xda-developers.com/apps/magisk/module-adguarddns-ad-free-experience-t3848166), AdGuard DNS now can be enabled systemlessly in Android Devices with this Magisk Module available to download below.
+Thank to our friend at [XDA](https://forum.xda-developers.com/apps/magisk/module-adguarddns-ad-free-experience-t3848166), AdGuard DNS now can be enabled systemlessly in Android Devices with this Magisk Module available to download below.
 
 [Original XDA Thread](https://forum.xda-developers.com/apps/magisk/module-adguarddns-ad-free-experience-t3848166)
 
