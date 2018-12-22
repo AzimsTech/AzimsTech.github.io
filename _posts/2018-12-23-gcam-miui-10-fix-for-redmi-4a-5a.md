@@ -17,7 +17,8 @@ tags:
 
 Starting with the MIUI 10 update, Xiaomi decided to remove camera2 api files in system. As such, Redmi 4A/5A users wich uses MIUI will not able to enable camera 2 API support. MIUI 10 lacks lib file which is require for camera2 api functionality to work.
 
-### Here The Solution
+Here The Solution
+=======================
 
 I just found and picked up the necessary module for cam2api to work from MIUI10.  
 > [FixPatch-Cam2API.zip](https://drive.google.com/file/d/15RK3JUlvT2tpCRjrfbeIbVrCVxQID-H-/view?usp=sharing)
@@ -32,7 +33,8 @@ If you already enabled camera2 api through build.prop or magisk module you not n
 ### It worked!
 ![It worked!](https://i.imgur.com/o8IvgzV.png)
 
-### Research
+Research
+================
 
 - [Redmi 4A thread - 4pda forum](https://w3bsit3-dns.com/forum/index.php?showtopic=788220&st=26980)
 
