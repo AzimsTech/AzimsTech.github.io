@@ -37,6 +37,5 @@ Research
 ================
 
 - [Redmi 4A thread - 4pda forum](https://w3bsit3-dns.com/forum/index.php?showtopic=788220&st=26980)
-
 - [Question thread - offical MIUI forum](https://en.miui.com/thread-4448807-1-1.html)
 
