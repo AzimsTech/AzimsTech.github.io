@@ -22,7 +22,7 @@ Here The Solution
 
 I just found and picked up the necessary module for cam2api to work from MIUI10.
 
-    `<a href="https://drive.google.com/file/d/15RK3JUlvT2tpCRjrfbeIbVrCVxQID-H-/view?usp=sharing">FixPatch-Cam2API.zip`</a>`
+    `<a href="https://drive.google.com/file/d/15RK3JUlvT2tpCRjrfbeIbVrCVxQID-H-/view?usp=sharing">FixPatch-Cam2API.zip</a>`
 
 the fix itself does not activate the camera. For that, you will need to flash another file.  
 
