@@ -13,7 +13,7 @@ tags:
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40AzimsLives)](https://twitter.com/AzimsLives)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/AzimsTech)
-[![Download Here](https://img.shields.io/github/downloads/AzimsTech/Camera2API-MIUI10-Fix-Redmi4A/1/total.svg)](https://github.com/AzimsTech/Camera2API-MIUI10-Fix-Redmi4A/releases/download/1/Camera2API-MIUI10-Fix-Redmi4A.zip)
+[![Download Here](https://img.shields.io/github/downloads/AzimsTech/Camera2API-MIUI10-Fix-Redmi4A/total.svg)](https://github.com/AzimsTech/Camera2API-MIUI10-Fix-Redmi4A/releases/download/1/Camera2API-MIUI10-Fix-Redmi4A.zip)
 
 
 ![cover](https://i.imgur.com/Ah7kgM0.png)
