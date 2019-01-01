@@ -1,8 +1,8 @@
 ---
 layout: post
 published: true
-title: 'Gcam MIUI 10 Fix for Redmi 4A/5A '
-subtitle: MIUI 10 Breaks Camera2 API Support Here's How to Fix It
+title: '[Magisk] Gcam MIUI 10 Fix for Redmi 4A/5A '
+subtitle: MIUI 10 Breaks Camera2 API Support Here's Magisk Module Fix It
 date: '2018-12-23'
 share-img: 'https://i.imgur.com/Ah7kgM0.png'
 tags:
