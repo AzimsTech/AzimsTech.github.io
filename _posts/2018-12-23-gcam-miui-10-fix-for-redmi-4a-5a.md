@@ -7,10 +7,14 @@ date: '2018-12-23'
 share-img: 'https://i.imgur.com/Ah7kgM0.png'
 tags:
   - Android
+  - Magisk
 ---
 ## MIUI 10 Breaks Camera2 API Support
 
-[Download Here!](https://github.com/AzimsTech/Camera2API-MIUI10-Fix-Redmi4A/releases/download/1/Camera2API-MIUI10-Fix-Redmi4A.zip)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40AzimsLives)](https://twitter.com/AzimsLives)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/AzimsTech)
+[![](https://img.shields.io/github/downloads/:user/:repo/:tag/total.svg)](https://github.com/AzimsTech/Camera2API-MIUI10-Fix-Redmi4A/releases/download/1/Camera2API-MIUI10-Fix-Redmi4A.zip)
+
 
 ![cover](https://i.imgur.com/Ah7kgM0.png)
 
