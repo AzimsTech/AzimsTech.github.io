@@ -28,7 +28,7 @@ Thank to our friend at [GitHub](https://github.com/bluemeda), AdGuard DNS now ca
 
 [Original Source Code](https://github.com/Magisk-Modules-Repo/dnscrypt-proxy)
 
-[Download AdGuard-DNSCrypt Module](https://github.com/AzimsTech/AdGuard-DNSCrypt/releases/download/1.0/AdGuard-DNSCrypt.zip
+[Download AdGuard-DNSCrypt Module](https://github.com/AzimsTech/AdGuard-DNSCrypt/releases/download/1.0/AdGuard-DNSCrypt.zip)
 
 Research
 =======================
