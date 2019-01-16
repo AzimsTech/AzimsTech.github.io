@@ -5,7 +5,7 @@ title: Android stuff
 ---
 # Google Camera Port
 
-A download page for some of the Google Camera mods. From devs like BSG, Arnova8G2, and many others.
+A download page for some of the Redmi 4A mods. From apks, magisk module, twrp, flashable zip and many others.
 
 
 ## Downloads
@@ -14,7 +14,7 @@ A download page for some of the Google Camera mods. From devs like BSG, Arnova8G
 -   [**Arnova's v7beta9**](https://www.celsoazevedo.com/files/android/google-camera/dev-arnova8G2/#apk195): similar to Arnova's v8.2. Use if you have issues with v8.2.
 -   [**Old suggested versions**](https://www.celsoazevedo.com/files/android/google-camera/dev-suggested/): page with all versions I've suggested before.
 
-|   |
+| ..  |
 |---|
 | -   [MGC_6.1.021_RP1_V1.2.0B.apk](https://f.celsoazevedo.com/file/gcamera/MGC_6.1.021_RP1_V1.2.0B.apk)  (HomerSp, 2018-12-21,  Razer 1,  [changelog](https://forum.xda-developers.com/razer-phone/themes/apk-google-camera-6-1-021-modded-t3880003)) |
 | -   [MGC_6.1.021_RP1_V1.0.0T.apk](https://f.celsoazevedo.com/file/gcamera/MGC_6.1.021_RP1_V1.0.0T.apk)  (HomerSp, 2018-12-21,  Razer 1,  [changelog](https://forum.xda-developers.com/razer-phone/themes/apk-google-camera-6-1-021-modded-t3880003)) |
