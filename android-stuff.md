@@ -16,9 +16,9 @@ A download page for some of the Redmi 4A mods. From apks, magisk module, twrp, f
 
 | ..  |
 |---|
-| -   [MGC_6.1.021_RP1_V1.2.0B.apk](https://f.celsoazevedo.com/file/gcamera/MGC_6.1.021_RP1_V1.2.0B.apk)  (HomerSp, 2018-12-21,  Razer 1,  [changelog](https://forum.xda-developers.com/razer-phone/themes/apk-google-camera-6-1-021-modded-t3880003)) |
-| -   [MGC_6.1.021_RP1_V1.0.0T.apk](https://f.celsoazevedo.com/file/gcamera/MGC_6.1.021_RP1_V1.0.0T.apk)  (HomerSp, 2018-12-21,  Razer 1,  [changelog](https://forum.xda-developers.com/razer-phone/themes/apk-google-camera-6-1-021-modded-t3880003)) |
-| -   [MGC_6.1.021_Potter_v6Fsan1ty.apk](https://f.celsoazevedo.com/file/gcamera/MGC_6.1.021_Potter_v6Fsan1ty.apk)  (san1ty, 2019-01-13,  [changelog](https://www.celsoazevedo.com/files/android/google-camera/f/changelog337/)) |
+| <ul><li>[MGC_6.1.021_RP1_V1.2.0B.apk](https://f.celsoazevedo.com/file/gcamera/MGC_6.1.021_RP1_V1.2.0B.apk)  (HomerSp, 2018-12-21,  Razer 1,  [changelog](https://forum.xda-developers.com/razer-phone/themes/apk-google-camera-6-1-021-modded-t3880003)) </li></ul>|
+| <ul><li>[MGC_6.1.021_RP1_V1.0.0T.apk](https://f.celsoazevedo.com/file/gcamera/MGC_6.1.021_RP1_V1.0.0T.apk)  (HomerSp, 2018-12-21,  Razer 1,  [changelog](https://forum.xda-developers.com/razer-phone/themes/apk-google-camera-6-1-021-modded-t3880003)) |
+| <li>[MGC_6.1.021_Potter_v6Fsan1ty.apk](https://f.celsoazevedo.com/file/gcamera/MGC_6.1.021_Potter_v6Fsan1ty.apk)  (san1ty, 2019-01-13,  [changelog](https://www.celsoazevedo.com/files/android/google-camera/f/changelog337/)) |
 | -   [MGC_6.1.021_BSG_Arnova-TlnNeun_Urnyx05-v3.3.apk](https://f.celsoazevedo.com/file/gcamera/MGC_6.1.021_BSG_Arnova-TlnNeun_Urnyx05-v3.3.apk)  (Urnyx05, 2019-01-13,  OP5/5T,  [changelog](https://forum.xda-developers.com/showpost.php?p=78669175&postcount=4539)) |
 | -   [MGC_6.1.021_BSG_Arnova-based_v.1.3c_fix_TlnNeun_xcam_5_beta6.apk](https://f.celsoazevedo.com/file/gcamera/MGC_6.1.021_BSG_Arnova-based_v.1.3c_fix_TlnNeun_xcam_5_beta6.apk)  (xtrme, 2019-01-11,  [changelog](https://www.celsoazevedo.com/files/android/google-camera/f/changelog334/)) |
 | -   [MGC_6.1.021_BSG_Arnova-based_v.1.3d_TlnNeun_Urnyx05-v3.0.apk](https://f.celsoazevedo.com/file/gcamera/MGC_6.1.021_BSG_Arnova-based_v.1.3d_TlnNeun_Urnyx05-v3.0.apk)  (Urnyx05, 2019-01-08,  OP5/5T,  [changelog](https://forum.xda-developers.com/showpost.php?p=78624220&postcount=4501)) |
