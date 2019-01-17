@@ -1,0 +1,34 @@
+---
+layout: post
+published: true
+title: How I Control System Volume With My Logitech Mouse
+subtitle: Simple trick I use
+tags:
+  - Tips
+  - Windows
+share-img: 'https://i.imgur.com/HFIww6f.gif'
+---
+## Why I need this
+
+It's frustrating to keep adjusting volume everytime video you are watching is suddenly louder/quitter. Even more anyoing is your keyboard doesn't have a dedicated volume button or you need to press both keys in order to adjust the volume. 
+
+Thankfully my logitech mouse comes with sofware which allow me to set custom commands for every keys on my logitech mouse. 
+
+Here's how I did:
+
+![Setup](https://i.imgur.com/8Hwnesf.gif)
+
+Download & install [**Logitech Gaming Sofware**](https://support.logitech.com/en_us/software/lgs)  
+Copy paste this:
+	C:/Windows/System32/SndVol.exe -f 99490633
+
+## It Works!
+
+By doing this simple setup, now I can click my dpi button anywhere then using scroll wheel to increase or decrease system volume. Nice!
+
+![It Works!](https://i.imgur.com/HFIww6f.gif)
+
+## Research
+
+- [Microsoft SndVol32 documentation](https://docs.microsoft.com/en-us/windows/desktop/devnotes/sndvol32-exe-)
+- [SevenForums Thread](https://www.sevenforums.com/tutorials/198083-volume-mixer-shortcut-create.html)
