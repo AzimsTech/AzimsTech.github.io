@@ -8,7 +8,7 @@ tags:
   - Windows
 share-img: 'https://i.imgur.com/HFIww6f.gif'
 ---
-## Why I need this
+![](https://i.imgur.com/AFya78Q.jpg)
 
 It's frustrating to keep adjusting volume everytime video you are watching is suddenly louder/quitter. Even more anyoing is your keyboard doesn't have a dedicated volume button or you need to press both keys in order to adjust the volume. 
 
@@ -18,8 +18,10 @@ Here's how I did:
 
 ![Setup](https://i.imgur.com/8Hwnesf.gif)
 
-Download & install [**Logitech Gaming Sofware**](https://support.logitech.com/en_us/software/lgs)  
-Copy paste this:
+- Download & install [**Logitech Gaming Sofware**](https://support.logitech.com/en_us/software/lgs)  
+- Copy paste this:
+
+
 	C:/Windows/System32/SndVol.exe -f 99490633
 
 ## It Works!
