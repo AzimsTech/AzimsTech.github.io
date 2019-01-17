@@ -33,5 +33,5 @@ By doing this simple setup, now I can click my assigned button (I use DPI button
 
 ## Research
 
-- [Microsoft SndVol32 documentation](https://docs.microsoft.com/en-us/windows/desktop/devnotes/sndvol32-exe-)
+- [Superuser Q&A](https://superuser.com/questions/440751/windows-7-open-the-volume-control-popup-from-the-command-prompt/440752)
 - [SevenForums Thread](https://www.sevenforums.com/tutorials/198083-volume-mixer-shortcut-create.html)
