@@ -6,7 +6,7 @@ subtitle: Simple trick I use
 tags:
   - Tips
   - Windows
-share-img: 'https://i.imgur.com/HFIww6f.gif'
+share-img: 'https://i.imgur.com/pVN3hAo.png'
 ---
 It's so frustrating to keep adjusting volume everytime video you are watching is suddenly louder/quitter. 
 
