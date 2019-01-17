@@ -12,23 +12,22 @@ It's so frustrating to keep adjusting volume everytime video you are watching is
 
 ![](https://i.imgur.com/VRAcFjz.jpg)
 
-Even more anyoing is your keyboard doesn't have a dedicated volume button or you need to press both keys in order to adjust the volume. 
+Even more, annoying if your keyboard doesn't have a dedicated volume button or you need to press both keys in order to adjust the volume. 
 
-Thankfully my logitech mouse comes with sofware which allow me to set custom commands for every keys on my logitech mouse. 
+Thankfully my Logitech mouse comes with software which allows me to set custom commands for every key on my Logitech mouse. 
 
 Here's how I did:
 
 ![Setup](https://i.imgur.com/8Hwnesf.gif)
 
-- Download & install [**Logitech Gaming Sofware**](https://support.logitech.com/en_us/software/lgs)  
-- Copy paste this:
+Download & install [**Logitech Gaming Sofware**](https://support.logitech.com/en_us/software/lgs)  
+Copy paste this:  
 
-
-	C:/Windows/System32/SndVol.exe -f 99490633
+    C:/Windows/System32/SndVol.exe -f 99490633
 
 ## It Works!
 
-By doing this simple setup, now I can click my dpi button anywhere then using scroll wheel to increase or decrease system volume. Nice!
+By doing this simple setup, now I can click my assigned button (I use DPI button) anywhere then using the scroll wheel to increase or decrease system volume. Nice!
 
 ![It Works!](https://i.imgur.com/HFIww6f.gif)
 
