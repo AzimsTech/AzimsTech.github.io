@@ -16,7 +16,7 @@ Even more, annoying if your keyboard doesn't have a dedicated volume button or y
 
 Thankfully my Logitech mouse comes with software which allows me to set custom commands for every key on my Logitech mouse. 
 
-Here's how I did:
+### Here's my solution:
 
 ![Setup](https://i.imgur.com/8Hwnesf.gif)
 
