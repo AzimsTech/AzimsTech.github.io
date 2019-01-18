@@ -40,7 +40,7 @@ What's New Since LTSB 2016?
 Download Here
 =================
 
-<b style="color:red">Update:</b> New links are now based from Mirosoft Re-released Windows 10 1809  
+<b style="color:red">Update:</b> New links are now based from Mirosoft [Re-released Windows 10 1809](https://support.microsoft.com/en-us/help/4464619/windows-10-update-history)  
 
 {: .box-note}
 **64-bit ISO:**  [SW_DVD5_WIN_ENT_LTSC_2019_64-bit_English_MLF_X21-96425.ISO](https://drive.google.com/open?id=1EFvlLvWdKal1P1h7advtQjGN_oUJmT_m)  
@@ -67,3 +67,4 @@ Research and alternatives
 * [The pros and cons of LTSC in the enterprise & FAQ ](https://www.youtube.com/watch?v=sJAGkFuaoK0) 
 * [Nsane Forums](https://www.nsaneforums.com/topic/312871-windows-10-digital-license-hwid-kms19™-generation)  (activation tool)
 * [MDL Threads](https://forums.mydigitallife.net/threads/discussion-windows-10-enterprise-n-ltsc-2019.76325/)
+* [Windows 10, version 1809 and Windows Server 2019 re-released](https://support.microsoft.com/en-us/help/4464619/windows-10-update-history)
