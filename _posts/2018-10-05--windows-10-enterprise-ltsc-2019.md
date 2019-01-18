@@ -58,7 +58,7 @@ Activation
 For activation please use this awesome tool by s1ave77 from [Nsane forums](https://www.nsaneforums.com/topic/312871-windows-10-digital-license-hwid-kms38%E2%84%A2-generation/):
 
 {: .box-note}
-Digital License (HWID) & KMS38™ Generation - Long life KMS38™ activation (19-years license) 
+Digital License (HWID) & KMS38™ Generation - Long life KMS38™ activation (19-years license)  
 **Download:** [hwid.kms38.gen.mk6.exe](https://drive.google.com/open?id=1-ObmMJNwE4la9o3-M6hr4VUgOgVVqS5q)
 
 Research and alternatives
