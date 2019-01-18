@@ -40,7 +40,7 @@ What's New Since LTSB 2016?
 Download Here
 =================
 
-<p style="color:red"><b>Update:</b></p> New link based from Mirosoft Re-released Windows 10 1809  
+<b style="color:red">Update:</b> New link based from Mirosoft Re-released Windows 10 1809  
 
 {: .box-note}
   **64-bit ISO:**  [SW_DVD5_WIN_ENT_LTSC_2019_64-bit_English_MLF_X21-96425.ISO](https://drive.google.com/open?id=1EFvlLvWdKal1P1h7advtQjGN_oUJmT_m)
