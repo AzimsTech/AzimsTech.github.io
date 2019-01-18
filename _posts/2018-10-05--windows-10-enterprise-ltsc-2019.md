@@ -55,11 +55,11 @@ Download Here
 Activation
 =================
 
-For activation please use this awesome tool by s1ave77 from MDL forums:
+For activation please use this awesome tool by s1ave77 from [Nsane forums](https://www.nsaneforums.com/topic/312871-windows-10-digital-license-hwid-kms38%E2%84%A2-generation/):
 
 {: .box-note}
-Digital License (HWID) Generation Method (without KMS with 7047 days license) 
-**Download:** [hwid.kms19.gen.mk4.exe](https://drive.google.com/open?id=1hhyrM0c_J1QMPNPv-XCLy_y2Ix7cBCK7)
+Digital License (HWID) & KMS38™ Generation - Long life KMS38™ activation (19-years license) 
+**Download:** [hwid.kms38.gen.mk6.exe](https://drive.google.com/open?id=1-ObmMJNwE4la9o3-M6hr4VUgOgVVqS5q)
 
 Research and alternatives
 ===============================
