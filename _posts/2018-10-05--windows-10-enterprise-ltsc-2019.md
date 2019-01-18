@@ -40,6 +40,15 @@ What's New Since LTSB 2016?
 Download Here
 =================
 
+*Update: * New link based from Mirosoft Re-released Windows 10 1809  
+
+  **64-bit ISO:**  [SW_DVD5_WIN_ENT_LTSC_2019_64-bit_English_MLF_X21-96425.ISO](https://drive.google.com/open?id=1EFvlLvWdKal1P1h7advtQjGN_oUJmT_m)
+    **SHA-1:** D5B2F95E3DD658517FE7C14DF4F36DE633CA4845  
+
+  **32-bit ISO:**  [SW_DVD5_WIN_ENT_LTSC_2019_32-bit_English_MLF_X21-96424.ISO](https://drive.google.com/open?id=1DQlEL_aO-pTvme7iWpMfcnazVN4ixOA5)
+    **SHA-1:** 220EB673D4AED9F1652C1CE3D2731CD96A8138F2
+
+
 {: .box-note}
 **64-bit Version:** [en_windows_10_enterprise_ltsc_2019_x64_dvd_74865958.iso](https://drive.google.com/open?id=1AFsHUbPoMfWfAcNGwU9KPo5A8cFjYAxk) 
 **SHA-1:** 0b8476eff31f957590ade6fe671f16161037d3f6 
@@ -63,8 +72,3 @@ Research and alternatives
 * [The pros and cons of LTSC in the enterprise & FAQ ](https://www.youtube.com/watch?v=sJAGkFuaoK0) 
 * [Nsane Forums](https://www.nsaneforums.com/topic/312871-windows-10-digital-license-hwid-kms19™-generation)  (activation tool)
 * [MDL Threads](https://forums.mydigitallife.net/threads/discussion-windows-10-enterprise-n-ltsc-2019.76325/)
-
-
-
-
-
