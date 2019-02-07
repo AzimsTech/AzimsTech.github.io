@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: My Ultimate AutoHotKey Script Collection
 subtitle: 'AutoHotKey is cool, let''s use it!'
 ---
