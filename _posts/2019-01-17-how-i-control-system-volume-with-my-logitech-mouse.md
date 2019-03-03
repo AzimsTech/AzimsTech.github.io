@@ -34,7 +34,7 @@ Move **ClickScrollVolume.exe** into this directory:
 
 By doing this simple setup, now I can use my Right-click and Scroll Wheel anywhere to increase or decrease system volume. Nice!
 
-![It Works!](https://i.imgur.com/E4JzW3s.gif)
+![It Works!](https://i.imgur.com/E4JzW3s.gifv)
 
 # Research
 - [https://autohotkey.com/board/topic/80118-issue-with-rbutton/](https://autohotkey.com/board/topic/80118-issue-with-rbutton/)
