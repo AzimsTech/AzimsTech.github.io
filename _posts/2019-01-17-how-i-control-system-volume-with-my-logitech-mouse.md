@@ -7,6 +7,7 @@ tags:
   - Tips
   - Windows
 share-img: 'https://i.imgur.com/pVN3hAo.png'
+date: '2019-03-04'
 ---
 It's so frustrating to keep adjusting volume everytime video you are watching is suddenly louder/quitter. 
 
