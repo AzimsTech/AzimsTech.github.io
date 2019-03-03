@@ -16,14 +16,20 @@ Even more, annoying if your keyboard doesn't have a dedicated volume button or y
 
 Thankfully my Logitech mouse comes with software which allows me to set custom commands for every key on my Logitech mouse. 
 
-### Here's my solution:
+### My new solution:
 
-![Setup](https://i.imgur.com/8Hwnesf.gif)
+I created a hotkey using the Right Mouse button and Scroll Wheel to control the volume. [__Learn more about it here__](https://github.com/AzimsTech/MyAhkList/blob/master/description/ClickScrollVolume.md)
 
-Download & install [**Logitech Gaming Sofware**](https://support.logitech.com/en_us/software/lgs)  
-Copy paste this:  
 
-    C:/Windows/System32/SndVol.exe -f 99490633
+![Repo](https://i.imgur.com/kohaT2o.png)
+
+Download & run [**ClickScrollVolume.exe**](https://github.com/AzimsTech/MyAhkList/releases/tag/v1)  
+
+#### How to run this script on boot
+Move **ClickScrollVolume.exe** into this directory:
+
+    C:\Users\(your username)\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
 
 ## It Works!
 
@@ -31,7 +37,7 @@ By doing this simple setup, now I can click my assigned button (I use DPI button
 
 ![It Works!](https://i.imgur.com/HFIww6f.gif)
 
-## Research
-
-- [Superuser Q&A](https://superuser.com/questions/440751/windows-7-open-the-volume-control-popup-from-the-command-prompt/440752)
-- [SevenForums Thread](https://www.sevenforums.com/tutorials/198083-volume-mixer-shortcut-create.html)
+# Research
+- [https://autohotkey.com/board/topic/80118-issue-with-rbutton/](https://autohotkey.com/board/topic/80118-issue-with-rbutton/)
+- [https://autohotkey.com/board/topic/72662-disable-context-menu-combo-hotkey-with-rbutton/](https://autohotkey.com/board/topic/72662-disable-context-menu-combo-hotkey-with-rbutton/)
+- [https://autohotkey.com/board/topic/40719-cannot-stop-right-click-menu-from-displaying/](https://autohotkey.com/board/topic/40719-cannot-stop-right-click-menu-from-displaying/)
