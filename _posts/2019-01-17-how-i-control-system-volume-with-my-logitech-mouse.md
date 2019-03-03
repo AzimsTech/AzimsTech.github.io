@@ -31,7 +31,7 @@ Move **ClickScrollVolume.exe** into this directory:
 
 ## It Works!
 
-By doing this simple setup, now I can click my assigned button (I use DPI button) anywhere then using the scroll wheel to increase or decrease system volume. Nice!
+By doing this simple setup, now I can use my Right-click and Scroll Wheel anywhere to increase or decrease system volume. Nice!
 
 ![It Works!](https://i.imgur.com/HFIww6f.gif)
 
