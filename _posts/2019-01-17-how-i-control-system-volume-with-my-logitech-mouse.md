@@ -14,11 +14,9 @@ It's so frustrating to keep adjusting volume everytime video you are watching is
 
 Even more, annoying if your keyboard doesn't have a dedicated volume button or you need to press both keys in order to adjust the volume. 
 
-Thankfully my Logitech mouse comes with software which allows me to set custom commands for every key on my Logitech mouse. 
-
 ### My new solution:
 
-I created a hotkey using the Right Mouse button and Scroll Wheel to control the volume. [__Learn more about it here__](https://github.com/AzimsTech/MyAhkList/blob/master/description/ClickScrollVolume.md)
+So, I created a hotkey using the Right Mouse button and Scroll Wheel to control the volume. [__Learn more about it here__](https://github.com/AzimsTech/MyAhkList/blob/master/description/ClickScrollVolume.md)
 
 
 ![Repo](https://i.imgur.com/kohaT2o.png)
