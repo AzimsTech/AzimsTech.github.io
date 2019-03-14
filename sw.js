@@ -1,7 +1,7 @@
 //Hello again!
 
 //install prompt 
-importScripts('https://raw.githubusercontent.com/dominiccooney/cache-polyfill/master/index.js');
+importScripts('/cache-polyfill.js');
 
 
 self.addEventListener('install', function(e) {
