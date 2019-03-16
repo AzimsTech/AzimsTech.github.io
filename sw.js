@@ -76,18 +76,3 @@ var urlsToCache = [];
     urlsToCache.push("{{ file.path }}")
     {% endif %}
 {% endfor %}
-
-
-self.addEventListener('fetch', function(event) {
-  event.respondWith(
-    cache.match(event.request).then(function(response) {
-      return response || fetch(event.request).then(function(response) {
-        cache.put(event.request, response.clone());
-        return response;
-      });
-    }).catch(function() {
-      // If it can't fetch the asset, display the offline only page
-      return caches.match('/offline.html')
-    })
-  );
-});
