@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: post
 published: true
 title: How I Control System Volume With My Mouse
 subtitle: Simple trick I use
