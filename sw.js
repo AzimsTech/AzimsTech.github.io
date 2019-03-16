@@ -1,3 +1,8 @@
+---
+layout: null
+---
+
+
 var urlsToCache = [];
 
 var CACHE_NAME = 'james-ives-cache-v1';
