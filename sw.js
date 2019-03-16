@@ -47,6 +47,25 @@ self.addEventListener('fetch', function(event) {
 
 // Create Cache array
 var urlsToCache = [];
+
+//Update
+// Cache assets
+{% for asset in site.static_files %}
+    {% if asset.path contains '/assets/images' or asset.path contains '/assets/posts' or asset.extname == '.js' %}
+    urlsToCache.push("{{ file.path }}")
+    {% endif %}
+{% endfor %}
+
+// Cache posts
+{% for post in site.posts %}
+  urlsToCache.push("{{ post.url }}")
+{% endfor %}
+
+// Cache pages
+{% for page in site.html_pages %}
+  urlsToCache.push("{{ page.url }}")
+{% endfor %}
+
 // Cache posts
 // Limits the number of posts that gets cached to 3
 // Reads a piece of front-matter in each post that directs the second loop to the folder where the assets are held
