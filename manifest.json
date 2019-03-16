@@ -5,41 +5,42 @@
   "lang": "en-US",
   "start_url": "/",
   "scope": "/",
-  "display": "browser",
+  "display": "standalone",
   "theme_color": "#234863",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico",
+      "src": "/img/avatar-icon-512x512.png",
       "sizes": "512x512",
-      "type": "ico"
+      "type": "png"
     },
     {
-      "src": "https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico",
+      "src": "/img/avatar-icon-384x384.png",
       "sizes": "384x384"
     },
     {
-      "src": "https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico",
+      "src": "/img/avatar-icon-192x192.png",
       "sizes": "192x192"
     },
     {
-      "src": "https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico",
+      "src": "/img/avatar-icon-152x152.png",
       "sizes": "152x152"
     },
     {
-      "src": "https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico",
+      "src": "/img/avatar-icon-144x144.png",
       "sizes": "144x144"
     },
     {
-      "src": "https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico",
+      "src": "/img/avatar-icon-128x128.png",
       "sizes": "128x128"
     },
     {
-      "src": "https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico",
+      "src": "/img/avatar-icon-96x96.png",
       "sizes": "96x96"
     },
     {
-      "src": "https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico",
+      "src": "/img/avatar-icon-72x72.png",
       "sizes": "72x72"
     }
-  ]
+  ],
+  "splash_pages": null
 }
