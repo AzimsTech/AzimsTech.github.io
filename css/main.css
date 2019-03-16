@@ -440,8 +440,10 @@ footer .theme-by {
 /* --- Post and page headers --- */
 
 .intro-header {
-  margin: 80px 0 20px;
+  margin: 0px;
+  padding: 80px 0 80px !important;
   position: relative;
+  background-color: #234863 !important;
 }
 .intro-header.big-img {
   background: no-repeat center center;
@@ -468,6 +470,8 @@ footer .theme-by {
 }
 .intro-header .page-heading {
   text-align: center;
+  color: #FFF;
+  text-shadow: 1px 1px 3px #000;								
 }
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
@@ -520,7 +524,8 @@ footer .theme-by {
 }
 @media only screen and (min-width: 768px) {
   .intro-header {
-    margin-top: 130px;
+    margin-top: 0px;
+    padding-top: 80px !important;			 
   }
   .intro-header.big-img {
     margin-top: 91px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
