@@ -7,6 +7,7 @@
   "scope": "/",
   "display": "standalone",
   "theme_color": "#234863",
+  "background_color": "#234863",
   "icons": [
     {
       "src": "/img/avatar-icon-512x512.png",
