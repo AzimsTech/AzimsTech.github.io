@@ -1,0 +1,45 @@
+{
+  "name": "Azims Tech",
+  "short_name": "AzimsTech",
+  "description": "Computer Software Enthusiast",
+  "lang": "en-US",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "theme_color": "#234863",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico",
+      "sizes": "512x512",
+      "type": "ico"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico",
+      "sizes": "384x384"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico",
+      "sizes": "152x152"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico",
+      "sizes": "144x144"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico",
+      "sizes": "128x128"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico",
+      "sizes": "96x96"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico",
+      "sizes": "72x72"
+    }
+  ]
+}

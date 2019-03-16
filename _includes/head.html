@@ -7,6 +7,8 @@
 
   <meta name="author" content="{{ site.author.name }}" />
   
+  
+  <!-- Register Service Worker -->
   <script type="text/javascript">
   if ("serviceWorker" in navigator) {
     navigator.serviceWorker.register("/sw.js").then(function(registration) {
@@ -16,6 +18,36 @@
     });
   }
 </script>
+
+<!-- Add manifest.json -->
+<link rel="manifest" href="manifest.json">
+
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="application-name" content="AzimsTech">
+<meta name="apple-mobile-web-app-title" content="AzimsTech">
+<meta name="theme-color" content="#234863">
+<meta name="msapplication-navbutton-color" content="#234863">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="msapplication-starturl" content="/">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<link rel="icon" type="ico" sizes="512x512" href="https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico">
+<link rel="apple-touch-icon" type="ico" sizes="512x512" href="https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico">
+<link rel="icon" sizes="384x384" href="https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico">
+<link rel="apple-touch-icon" sizes="384x384" href="https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico">
+<link rel="icon" sizes="192x192" href="https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico">
+<link rel="apple-touch-icon" sizes="192x192" href="https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico">
+<link rel="icon" sizes="152x152" href="https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico">
+<link rel="apple-touch-icon" sizes="152x152" href="https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico">
+<link rel="icon" sizes="144x144" href="https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico">
+<link rel="apple-touch-icon" sizes="144x144" href="https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico">
+<link rel="icon" sizes="128x128" href="https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico">
+<link rel="apple-touch-icon" sizes="128x128" href="https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico">
+<link rel="icon" sizes="96x96" href="https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico">
+<link rel="apple-touch-icon" sizes="96x96" href="https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico">
+<link rel="icon" sizes="72x72" href="https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico">
+<link rel="apple-touch-icon" sizes="72x72" href="https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/favicon.ico">
 
   {% if page.subtitle %}
   <meta name="description" content="{{ page.subtitle }}">
