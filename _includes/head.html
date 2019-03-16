@@ -6,6 +6,16 @@
   <title>{% if page.use-site-title %}{{ site.title }} {{ site.title-separator }} {{ site.description }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
   <meta name="author" content="{{ site.author.name }}" />
+  
+  <script type="text/javascript">
+  if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("/sw.js").then(function(registration) {
+      console.log("Service Worker registration successful with scope: ", registration.scope);
+    }).catch(function(err) {
+      console.log("Service Worker registration failed: ", err);
+    });
+  }
+</script>
 
   {% if page.subtitle %}
   <meta name="description" content="{{ page.subtitle }}">
