@@ -12,6 +12,7 @@ body {
   color: #404040;
   position: relative;
   background-color: {{ site.page-col }};
+  word-wrap: break-word; //wrap long text/links
   {% if site.page-img %}
   background-image: url({{ site.page-img }});
   background-attachment: fixed;
