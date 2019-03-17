@@ -12,6 +12,7 @@ body {
   color: #404040;
   position: relative;
   background-color: {{ site.page-col }};
+  word-wrap: break-word; // fixed the issue where long hyperlink causing the mobile page not showing correctly
   {% if site.page-img %}
   background-image: url({{ site.page-img }});
   background-attachment: fixed;
