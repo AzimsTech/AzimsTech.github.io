@@ -118,6 +118,10 @@ img {
   {% endif %}
 }
 
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: {{ site.navbar-col }};
+}
+
 .navbar-custom .nav li a {
   text-transform: uppercase;
   font-size: 12px;
