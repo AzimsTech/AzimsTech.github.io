@@ -13,7 +13,8 @@ share-img: 'https://i.ytimg.com/vi/YThelfB2fvg/maxresdefault.jpg'
 
 If you interested to know the background behind the mouse cursor, watch this excellent video by Posy.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=YThelfB2fvg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=YThelfB2fvg" frameborder="0" allowfullscreen></iframe>
+
 
 ## Introducing Posy's cursor
 
