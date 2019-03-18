@@ -1,6 +1,7 @@
 ---
 layout: post
-published: false
+published: true
+show-avatar: false
 title: Privacy Policy
 ---
 <h1>Privacy Policy</h1>
