@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: page
 published: false
 title: Privacy Policy
 ---
-<h1>Privacy Policy</h1>
 
 
 <p>Effective date: March 18, 2019</p>
