@@ -1,6 +1,7 @@
 ---
 layout: page
-published: false
+published: true
+show-avatar: false
 title: Privacy Policy
 ---
 
