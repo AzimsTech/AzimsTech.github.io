@@ -137,7 +137,7 @@ google_analytics: "UA-130675197-1"
 # disqus: ""
 
 # To use Facebook Comments, fill in a Facebook App ID
-  fb_comment_id: "2212359552421350"
+fb_comment_id: "2212359552421350"
 
 # Staticman support
 staticman:
@@ -153,7 +153,7 @@ staticman:
 # --- Misc --- #
 
 # Facebook App ID
-  fb_app_id: "2212359552421350"
+fb_app_id: "2212359552421350"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
