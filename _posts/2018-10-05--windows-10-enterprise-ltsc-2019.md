@@ -42,13 +42,17 @@ Download Here
 
 <b style="color:red">Update:</b> New links are now based from Mirosoft [Re-released Windows 10 1809](https://support.microsoft.com/en-us/help/4464619/windows-10-update-history)  
 
-{: .box-note}
-**64-bit ISO:**  [SW_DVD5_WIN_ENT_LTSC_2019_64-bit_English_MLF_X21-96425.ISO](https://drive.google.com/open?id=1EFvlLvWdKal1P1h7advtQjGN_oUJmT_m)  
-**SHA-1:** D5B2F95E3DD658517FE7C14DF4F36DE633CA4845  
+<b style="color:red">Update 2:</b> Link are now updated to RE-release + Feb. 12, 2019 CU KB4487044 = (Updated Feb 2019). This is the february 2019 refresh iso (17763.316)
 
 {: .box-note}
-**32-bit ISO:**  [SW_DVD5_WIN_ENT_LTSC_2019_32-bit_English_MLF_X21-96424.ISO](https://drive.google.com/open?id=1DQlEL_aO-pTvme7iWpMfcnazVN4ixOA5)  
-**SHA-1:** 220EB673D4AED9F1652C1CE3D2731CD96A8138F2
+**64-bit ISO:**  [en_windows_10_enterprise_ltsc_2019_x64_dvd_5795bb03.iso](https://drive.google.com/uc?export=view&id=1KIxJItBtLowQAYs5joILUqxG16rE9Wbk)  
+**SHA256:** B570DDFDC4672F4629A95316563DF923BD834AEC657DE5D4CA7C7EF9B58DF2B1
+**SHA1:** 615A77ECD40E82D5D69DC9DA5C6A6E1265F88E28
+
+{: .box-note}
+**32-bit ISO:**  [en_windows_10_enterprise_ltsc_2019_x86_dvd_892869c9.iso](https://drive.google.com/uc?export=view&id=140zO973CHD8fUGUn-bm6JLoOG72joo6H)  
+**SHA256:** 9D7016AD77E8E95F57A4CB068C01C282A5C6468301BC2C01FB194E23F3D57DEE
+**SHA1:** 88AF607F1E752761577D21F2B7AA98692809BF66
 
 
 
@@ -60,6 +64,10 @@ For activation please use this awesome tool by s1ave77 from [Nsane forums](https
 {: .box-note}
 Digital License (HWID) & KMS38™ Generation - Long life KMS38™ activation (19-years license)  
 **Download:** [hwid.kms38.gen.mk6.exe](https://drive.google.com/open?id=1-ObmMJNwE4la9o3-M6hr4VUgOgVVqS5q)
+
+_*note: KMS38 is simply KMS activation until 2038 (not KMS for 38 years)._
+
+**How to check?:-** [See here.](https://i.imgur.com/aA5FA8h.png)
 
 Research and alternatives
 ===============================
