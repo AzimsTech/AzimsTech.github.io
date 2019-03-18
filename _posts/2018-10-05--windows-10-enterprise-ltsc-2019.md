@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: ' Windows 10 Enterprise LTSC 2019'
-subtitle: Latest Feb Re-release ISO Available. Windows 10 LTSB Users Rejoice!
+subtitle: The Latest Feb Re-release ISO (17763.316) Download Link Available!
 bigimg: >-
   https://www.windowslatest.com/wp-content/uploads/2018/06/Windows-10-June-Update.jpg
 share-img: 'https://i.imgur.com/QuHTJZf.png'
