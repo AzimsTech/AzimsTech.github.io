@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: ''
+title: Privacy Policy
 ---
 <h1>Privacy Policy</h1>
 
