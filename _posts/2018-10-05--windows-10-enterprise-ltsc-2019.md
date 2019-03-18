@@ -43,7 +43,7 @@ Download Here
 
 <b style="color:red">Update:</b> New links are now based from Mirosoft [Re-released Windows 10 1809](https://support.microsoft.com/en-us/help/4464619/windows-10-update-history)  
 
-<b style="color:red">Update 2:</b> Link are now updated to RE-release + Feb. 12, 2019 CU KB4487044 = (Updated Feb 2019). This is the february 2019 refresh iso (17763.316)
+<b style="color:red">Update 2:</b> Link are now updated to RE-release + Feb. 12, 2019 Cumulative Update **KB4487044**. This is the latest February 2019 refresh iso **(OS Build: 17763.316)**
 
 {: .box-note}
 **64-bit ISO:**  [en_windows_10_enterprise_ltsc_2019_x64_dvd_5795bb03.iso](https://drive.google.com/uc?export=view&id=1KIxJItBtLowQAYs5joILUqxG16rE9Wbk)  
