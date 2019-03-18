@@ -2,13 +2,14 @@
 layout: post
 published: true
 title: ' Windows 10 Enterprise LTSC 2019'
-subtitle: Download Links Available. Windows 10 LTSB Users Rejoice!
+subtitle: Latest Feb Re-release ISO Available. Windows 10 LTSB Users Rejoice!
 bigimg: >-
   https://www.windowslatest.com/wp-content/uploads/2018/06/Windows-10-June-Update.jpg
 share-img: 'https://i.imgur.com/QuHTJZf.png'
 tags:
   - Windows 10
   - LTSB/LTSC
+date: '2019-03-19'
 ---
 ### The next LTSC release, Windows 10 Enterprise LTSC 2019 is available for Download today!
 
