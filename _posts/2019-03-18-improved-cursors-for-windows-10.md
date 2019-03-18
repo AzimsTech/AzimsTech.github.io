@@ -7,7 +7,7 @@ date: '2019-03-18'
 tags:
   - Tips
   - Windows
-share-img: 'https://i.ytimg.com/vi/YThelfB2fvg/maxresdefault.jpg'
+share-img: 'https://i.imgur.com/0zLvh6a.png'
 ---
 ## The History of Mouse Cursor/Pointer
 
