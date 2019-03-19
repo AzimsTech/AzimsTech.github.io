@@ -168,7 +168,7 @@ title-separator: "-"
 timezone: "Asia/Kuala_Lumpur"
 markdown: kramdown
 highlighter: rouge
-permalink: /:title/
+permalink: /:slug/
 paginate: 5
 
 kramdown:
