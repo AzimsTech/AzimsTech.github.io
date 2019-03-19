@@ -1,7 +1,3 @@
----
-layout: null
----
-
 @import url("pygment_highlights.css");
 
 /* --- General --- */
@@ -11,12 +7,9 @@ body {
   font-size: 18px;
   color: #404040;
   position: relative;
-  background-color: {{ site.page-col }};
+  background-color: #FFFFFF;
   word-wrap: break-word; // fixed the issue where long hyperlink causing the mobile page not showing correctly
-  {% if site.page-img %}
-  background-image: url({{ site.page-img }});
-  background-attachment: fixed;
-  {% endif %}
+  
 }
 p {
   line-height: 1.5;
@@ -27,11 +20,11 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 800;
 }
 a {
-  color: {{ site.link-col }};
+  color: #008AFF;
 }
 a:hover,
 a:focus {
-  color: {{ site.hover-col }};
+  color: #0085A1;
 }
 blockquote {
   color: #808080;
@@ -71,12 +64,12 @@ hr.small {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background-color: {{ site.hover-col }};
+  background-color: #0085A1;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background-color: {{ site.hover-col }};
+  background-color: #0085A1;
 }
 img::selection {
   color: white;
@@ -109,18 +102,15 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: {{ site.navbar-col }};
-  border-bottom: 1px solid {{ site.navbar-col }}; /* --- remove border*/
+  background-color: #234863;
+  border-bottom: 1px solid #234863; /* --- remove border*/
   border-color: #404040;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  {% if site.navbar-img %}
-  background-image: url({{ site.navbar-img }});
-  background-attachment: fixed;
-  {% endif %}
+  
 }
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
-    border-color: {{ site.navbar-col }};
+    border-color: #234863;
 }
 
 .navbar-custom .nav li a {
@@ -132,14 +122,14 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: {{ site.navbar-text-col }};
+  color: #999;
 }
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: {{ site.hover-col }};
+  color: #0085A1;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -238,7 +228,7 @@ img {
   display: block;
   padding: 10px;
   padding-left: 30px;
-  background-color: {{ site.navbar-children-col }};
+  background-color: #1f4159;
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
@@ -278,19 +268,16 @@ footer {
   border-top: 1px #EAEAEA solid;
   margin-top: 50px;
   font-size: 14px;
-  background-color: {{ site.footer-col }};
-  {% if site.footer-img %}
-  background-image: url({{ site.footer-img }});
-  background-attachment: fixed;
-  {% endif %}
+  background-color: #1d1d1d;
+  
 }
 
 footer p.text-muted {
-  color: {{ site.footer-text-col }};
+  color: #ccc;
 }
 
 footer a {
-  color: {{site.footer-link-col}};
+  color: #f1f1f1;
 }
 
 footer .list-inline {
@@ -344,7 +331,7 @@ footer .theme-by {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: {{ site.hover-col }};
+  color: #0085A1;
 }
 
 .post-preview .post-title {
@@ -408,14 +395,14 @@ footer .theme-by {
 }
 
 .blog-tags a {
-  color: {{ site.link-col }};
+  color: #008AFF;
   text-decoration: none;
   padding: 0px 5px;
 }
 
 .blog-tags a:hover {
   border-radius: 2px;
-  color: {{ site.hover-col }};
+  color: #0085A1;
   background-color: #EEE;
 }
 
@@ -562,23 +549,6 @@ footer .theme-by {
   }
 }
 
-@media only screen and (max-width: 768px) {
-  .intro-header {
-    margin-top: 0px;
-  }
-  .intro-header.big-img {
-    margin-top: 50px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
-    padding: unset;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-  }
-  .in
-  .intro-header.big-img .page-heading,
-  .intro-header.big-img .post-heading  {
-    padding: 50px 0;
-
-}
 
 .header-section.has-img .no-img {
   margin-top: 0;
@@ -655,8 +625,8 @@ footer .theme-by {
 .pager li a:hover,
 .pager li a:focus {
   color: #FFF;
-  border: 1px solid {{ site.hover-col }};
-  background-color: {{ site.hover-col }};
+  border: 1px solid #0085A1;
+  background-color: #0085A1;
 }
 
 .pager {
