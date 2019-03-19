@@ -34,6 +34,20 @@ You can download it from [his Website here](http://www.michieldb.nl/other/cursor
 
 Mirror: [Posy's Cursor (Default)](https://drive.google.com/uc?export=view&id=1NPIuTdCFN0blzED4lVdsw5ICHaOJOkVk)
 
+Mirror: [Posy's Cursor Black](https://drive.google.com/uc?export=download&id=1AFlw5lwNKWWTuD4uuXOk2DtBrBQ-bdo2)
+
+<figure class="figure">
+  <img src="https://i.imgur.com/vwlPxxQ.png" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+  <figcaption class="figure-caption text-right">Posy's Cursor (Default)</figcaption>
+</figure>
+
+<figure class="figure">
+  <img src="https://i.imgur.com/Ar08F3Q.png" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+  <figcaption class="figure-caption text-right">Posy's Cursor Black</figcaption>
+</figure>
+
+
+
 # How do I install it?
 
 It's really easy, watch this Gif below.
@@ -43,4 +57,3 @@ It's really easy, watch this Gif below.
 # Resources
 - Thanks to [Posy](https://www.youtube.com/user/PosyMusic/) for designing this awesome cursor.
 - Reddit thread - [Mouse Cursor History](https://www.reddit.com/r/videos/comments/9ums3j/mouse_cursor_history/)
-
