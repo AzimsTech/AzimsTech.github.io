@@ -448,8 +448,10 @@ footer .theme-by {
   position: relative;
   background-color: #234863 !important;
 }
-.intro-header .no-img{
-  margin: 80px 0 20px;
+.post{
+  margin: 80px 0 20px !important;
+  background-color: white !important;									   
+}
 									   
 }
 .intro-header.big-img {
