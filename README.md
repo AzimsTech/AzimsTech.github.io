@@ -1,5 +1,5 @@
 # AzimsTech powered by Beautiful Jekyll
-![Site cover](https://i.imgur.com/9vud1tn.png)
+![Site cover](https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/master/img/new-cover.png)
 
 # <b style="color:red;">(NEW)</b> Progressive Web App Optimized
 ![Lighthouse Report](https://i.imgur.com/cvC2IdW.png)
