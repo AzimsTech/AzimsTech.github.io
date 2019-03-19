@@ -9,7 +9,7 @@ share-img: 'https://i.imgur.com/QuHTJZf.png'
 tags:
   - Windows 10
   - LTSB/LTSC
-permalink: /2018-10-05--windows-10-enterprise-ltsc-2019/
+permalink: /2018-10-05-windows-10-enterprise-ltsc-2019/
 date: '2019-03-19'
 ---
 ### The next LTSC release, Windows 10 Enterprise LTSC 2019 is available for Download today!
