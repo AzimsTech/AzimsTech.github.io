@@ -34,12 +34,10 @@ You can download it from [his Website here](http://www.michieldb.nl/other/cursor
 
 {: .box-note}
 **Mirror:** [Posy's Cursor (Default)](https://drive.google.com/uc?export=view&id=1NPIuTdCFN0blzED4lVdsw5ICHaOJOkVk)
-
 [Preview](https://i.imgur.com/vwlPxxQ.png)
 
 {: .box-note}
 **Mirror:** [Posy's Cursor Black](https://drive.google.com/uc?export=download&id=1AFlw5lwNKWWTuD4uuXOk2DtBrBQ-bdo2)
-
 [Preview](https://i.imgur.com/Ar08F3Q.png)
 
 
