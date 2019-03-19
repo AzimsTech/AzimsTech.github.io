@@ -447,7 +447,7 @@ footer .theme-by {
 
 .intro-header {
   margin: 0px;
-  padding: 80px 0 80px !important;
+  padding: 80px 0 80px;
   position: relative;
   background-color: #234863 !important;
 }
