@@ -45,6 +45,7 @@
   <span class='img-desc'></span>
 </div>
 {% else %}
+{% if page.path contains '_posts' %}
 <div class="intro-header post">
   <div class="container">
     <div class="row">
@@ -69,7 +70,7 @@
   </div>
 </div>
 </header>
-{% endif %}
+{% else %}
 <div class="intro-header no-img">
   <div class="container">
     <div class="row">
@@ -94,6 +95,8 @@
   </div>
 </div>
 </header>
+{% endif %}
+
 {% else %}
 <div class="intro-header"></div>
 {% endif %}
