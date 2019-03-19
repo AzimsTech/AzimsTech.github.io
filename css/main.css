@@ -537,7 +537,6 @@ footer .theme-by {
 @media only screen and (min-width: 768px) {
   .intro-header {
     margin-top: 0px;
-    padding-top: 80px !important;			 
   }
   .intro-header.big-img {
     margin-top: 91px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
