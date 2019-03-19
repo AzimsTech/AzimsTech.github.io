@@ -168,7 +168,7 @@ title-separator: "-"
 timezone: "Asia/Kuala_Lumpur"
 markdown: kramdown
 highlighter: rouge
-permalink: /post/:name/
+permalink: /posts/:name/
 
 paginate: 5
 
