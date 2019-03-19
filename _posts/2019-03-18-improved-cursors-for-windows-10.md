@@ -32,19 +32,17 @@ I think this custom cursor is far better than the cursor came with Windows 10 ou
 
 You can download it from [his Website here](http://www.michieldb.nl/other/cursors/)
 
-Mirror: [Posy's Cursor (Default)](https://drive.google.com/uc?export=view&id=1NPIuTdCFN0blzED4lVdsw5ICHaOJOkVk)
+{: .box-note}
+**Mirror:** [Posy's Cursor (Default)](https://drive.google.com/uc?export=view&id=1NPIuTdCFN0blzED4lVdsw5ICHaOJOkVk)
 
-Mirror: [Posy's Cursor Black](https://drive.google.com/uc?export=download&id=1AFlw5lwNKWWTuD4uuXOk2DtBrBQ-bdo2)
+[Preview](https://i.imgur.com/vwlPxxQ.png)
 
-<figure class="figure">
-  <img src="https://i.imgur.com/vwlPxxQ.png" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
-  <figcaption class="figure-caption text-right">Posy's Cursor (Default)</figcaption>
-</figure>
+{: .box-note}
+**Mirror:** [Posy's Cursor Black](https://drive.google.com/uc?export=download&id=1AFlw5lwNKWWTuD4uuXOk2DtBrBQ-bdo2)
 
-<figure class="figure">
-  <img src="https://i.imgur.com/Ar08F3Q.png" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
-  <figcaption class="figure-caption text-right">Posy's Cursor Black</figcaption>
-</figure>
+[Preview](https://i.imgur.com/Ar08F3Q.png)
+
+
 
 
 
