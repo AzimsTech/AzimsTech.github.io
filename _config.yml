@@ -169,6 +169,7 @@ timezone: "Asia/Kuala_Lumpur"
 markdown: kramdown
 highlighter: rouge
 permalink: /post/:filename/
+
 paginate: 5
 
 kramdown:
