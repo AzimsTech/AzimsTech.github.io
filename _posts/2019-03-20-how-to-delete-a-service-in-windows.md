@@ -8,7 +8,7 @@ tags:
   - How-to
 subtitle: Via Command Prompt
 ---
-If for some reason you have a few services that I want to completely uninstall. Here I can show you how to do this step by step.
+If for some reason you have a few services that you want to get rid of completely. Here I can show you how to do this step by step.
 
 
 Open Command Prompt As Administrator
