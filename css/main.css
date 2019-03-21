@@ -434,16 +434,10 @@ footer .theme-by {
 
 .intro-header {
   margin: 0px;
-  padding: 20px 0 20px;
+  padding: 80px 0 80px;
   position: relative;
   background-color: #234863 !important;
-      margin-top: 91px;
-    padding: unset;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
 }
-
 .post{
   margin: 80px 0 20px !important;
   padding: 80px 0 20px !important;
