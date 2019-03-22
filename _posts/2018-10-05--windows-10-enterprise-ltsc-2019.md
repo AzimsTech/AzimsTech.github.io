@@ -47,14 +47,16 @@ Download Here
 <b style="color:red">Update 2:</b> Link are now updated to RE-release + Feb. 12, 2019 Cumulative Update **KB4487044**. This is the latest February 2019 refresh iso **(OS Build: 17763.316)**
 
 {: .box-note}
-**64-bit ISO:**  [en_windows_10_enterprise_ltsc_2019_x64_dvd_5795bb03.iso](https://drive.google.com/uc?export=view&id=1KIxJItBtLowQAYs5joILUqxG16rE9Wbk)  
+**64-bit ISO:**  en_windows_10_enterprise_ltsc_2019_x64_dvd_5795bb03.iso [Download Link](https://cloud.mail.ru/public/ErcU/GjSmd64qM)  
 **SHA256:** B570DDFDC4672F4629A95316563DF923BD834AEC657DE5D4CA7C7EF9B58DF2B1
 **SHA1:** 615A77ECD40E82D5D69DC9DA5C6A6E1265F88E28
 
 {: .box-note}
-**32-bit ISO:**  [en_windows_10_enterprise_ltsc_2019_x86_dvd_892869c9.iso](https://drive.google.com/uc?export=view&id=140zO973CHD8fUGUn-bm6JLoOG72joo6H)  
+**32-bit ISO:**  en_windows_10_enterprise_ltsc_2019_x86_dvd_892869c9.iso [Download Link](https://cloud.mail.ru/public/ErcU/GjSmd64qM)  
 **SHA256:** 9D7016AD77E8E95F57A4CB068C01C282A5C6468301BC2C01FB194E23F3D57DEE
 **SHA1:** 88AF607F1E752761577D21F2B7AA98692809BF66
+
+*Download link provided Wzor: https://cloud.mail.ru/public/ErcU/GjSmd64qM
 
 
 
