@@ -56,7 +56,7 @@ Download Here
 **SHA256:** 9D7016AD77E8E95F57A4CB068C01C282A5C6468301BC2C01FB194E23F3D57DEE
 **SHA1:** 88AF607F1E752761577D21F2B7AA98692809BF66
 
-**Download link:** [Download link is provided Wzor](https://cloud.mail.ru/public/ErcU/GjSmd64qM)
+**Download link:** [Download link is provided by Wzor](https://cloud.mail.ru/public/ErcU/GjSmd64qM)
 
 
 Activation
