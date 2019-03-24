@@ -5,7 +5,7 @@ title: New Microsoft Edge built on Chromium
 Tags:
   - Software
   - Download
-subtitle: The full installer has been leaked Download Link Available!
+subtitle: The full installer has been leaked. Download Link Available!
 Share-img:
   - 'https://i.imgur.com/AqRlb9F.png'
 share-img: 'https://i.imgur.com/AqRlb9F.png'
