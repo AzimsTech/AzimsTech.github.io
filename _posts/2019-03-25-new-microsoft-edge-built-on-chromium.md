@@ -7,7 +7,7 @@ Tags:
   - Download
 subtitle: The full installer has been leaked Download Link Available!
 ---
-### A first look at Microsoft’s new Chromium-powered Edge browser (by [Windows Central](https://www.youtube.com/channel/UCDMnCGlkv4gyFGZo_ZT3atg))
+### A first look at Microsoft’s new Chromium-powered Edge browser (by Windows Central)
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40AzimsLives)](https://twitter.com/AzimsLives)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/AzimsTech)
@@ -16,7 +16,7 @@ subtitle: The full installer has been leaked Download Link Available!
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/H61jOPS0IJ8" allowfullscreen></iframe>
 </div>
 
-Late last year, Microsoft announced that they were going to switch Edge over to the Chromium Blink rendering engine. Edge-based on Chromium will be available in preview later. Microsoft now introduce an Insider program for Microsoft Edge. You can join them by clicking the [link here](/www.microsoftedgeinsider.com/en-us/ ).
+Late last year, Microsoft announced that they were going to switch Edge over to the Chromium Blink rendering engine. Edge-based on Chromium will be available in preview later. Microsoft now introduce an Insider program for Microsoft Edge. You can join them by clicking the [link to the insider program here](https://www.microsoftedgeinsider.com/en-us/ ).
 
 The difference between old Edge to Chromium Edge browser:
 ===========================================================
@@ -39,3 +39,9 @@ A Text File
 msedge.7z File 257,529kb
 setup.exe 2330kb
 ~~~
+
+Research
+===============
+- [MSPoweruser](https://mspoweruser.com/microsofts-new-chromium-edge-browser-leaks-for-all/)
+- [Windows Central YouTube Video](https://www.youtube.com/channel/UCDMnCGlkv4gyFGZo_ZT3atg)
+- [MDL Thread](https://forums.mydigitallife.net/threads/windows-edge.79237/)
