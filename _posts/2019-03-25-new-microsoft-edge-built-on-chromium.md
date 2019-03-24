@@ -1,7 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 title: New Microsoft Edge built on Chromium
+Tags:
+  - Software
+  - Download
+subtitle: The full installer has been leaked Download Link Available!
 ---
 ### A first look at Microsoft’s new Chromium-powered Edge browser (by [Windows Central](https://www.youtube.com/channel/UCDMnCGlkv4gyFGZo_ZT3atg))
 
