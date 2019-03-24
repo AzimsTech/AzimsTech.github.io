@@ -22,14 +22,14 @@ tags:
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/H61jOPS0IJ8" allowfullscreen></iframe>
 </div>
 
-Late last year, Microsoft announced that they were going to switch Edge over to the Chromium Blink rendering engine. Edge-based on Chromium will be available in preview later. Microsoft now introduce an Insider program for Microsoft Edge. You can join them by clicking the [link to the insider program here](https://www.microsoftedgeinsider.com/en-us/ ).
+Late last year, Microsoft announced that they were going to switch Edge over to the Chromium **Blink** rendering engine. Edge-based on Chromium will be available in preview later. Microsoft now introduce an **Insider program** for Microsoft Edge. You can join them by clicking the [link to the insider program here](https://www.microsoftedgeinsider.com/en-us/ ).
 
 ![Screenshot](https://i.imgur.com/AqRlb9F.png)
 
 The difference between old Edge to Chromium Edge browser:
 ===========================================================
 - Now you can install any Chrome Extension into Edge.
-- Based on the open-source Chromium engine instead of proprietary  EdgeHTML rendering engine.
+- Based on the open-source Chromium **Blink** engine instead of proprietary  **EdgeHTML** rendering engine.
 - The UI of Chromium Edge looks comfortable and familiar to Chrome now.
 - Smooth pinching and zooming animation currently not coming back to Chromium Edge.
 
