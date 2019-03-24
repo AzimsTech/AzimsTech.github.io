@@ -27,7 +27,7 @@ Download Leaked Chromium Edge Here
 Even though It's not officially available to download yet, you can get it by downloading leaked installer download link below:
 
 {: .box-note}
-[microsoftedgesetup-latest.zip]()
+[microsoftedgesetup-latest.zip](https://drive.google.com/uc?export=view&id=1BXSPxzzW0c4L_EuV16xXn-fldG8KmMIs)
 
 When you Download this there are 3 Filles
 ~~~
