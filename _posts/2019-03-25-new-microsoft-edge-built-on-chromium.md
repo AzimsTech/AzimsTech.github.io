@@ -6,6 +6,12 @@ Tags:
   - Software
   - Download
 subtitle: The full installer has been leaked Download Link Available!
+Share-img:
+  - 'https://i.imgur.com/AqRlb9F.png'
+share-img: 'https://i.imgur.com/AqRlb9F.png'
+tags:
+  - Software
+  - Download
 ---
 ### A first look at Microsoft’s new Chromium-powered Edge browser (by Windows Central)
 
@@ -17,6 +23,8 @@ subtitle: The full installer has been leaked Download Link Available!
 </div>
 
 Late last year, Microsoft announced that they were going to switch Edge over to the Chromium Blink rendering engine. Edge-based on Chromium will be available in preview later. Microsoft now introduce an Insider program for Microsoft Edge. You can join them by clicking the [link to the insider program here](https://www.microsoftedgeinsider.com/en-us/ ).
+
+![Screenshot](https://i.imgur.com/AqRlb9F.png)
 
 The difference between old Edge to Chromium Edge browser:
 ===========================================================
