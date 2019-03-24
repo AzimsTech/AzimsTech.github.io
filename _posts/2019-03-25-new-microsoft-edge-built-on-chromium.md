@@ -3,18 +3,16 @@ layout: post
 published: false
 title: New Microsoft Edge built on Chromium
 ---
-### The next LTSC release, Windows 10 Enterprise LTSC 2019 is available for Download today!
+### A first look at Microsoft’s new Chromium-powered Edge browser (by [Windows Central](https://www.youtube.com/channel/UCDMnCGlkv4gyFGZo_ZT3atg))
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40AzimsLives)](https://twitter.com/AzimsLives)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/AzimsTech)
-
-A first look at Microsoft’s new Chromium-powered Edge browser (by [Windows Central](https://www.youtube.com/channel/UCDMnCGlkv4gyFGZo_ZT3atg))
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=H61jOPS0IJ8" allowfullscreen></iframe>
 </div>
 
-Late last year, Microsoft announced that they were going to switch Edge over to the Chromium Blink rendering engine. Edge-based on Chromium will be available in preview later. Microsoft now introduce an Insider program for Microsoft Edge! You can join them by clicking the [link here](/www.microsoftedgeinsider.com/en-us/ ).
+Late last year, Microsoft announced that they were going to switch Edge over to the Chromium Blink rendering engine. Edge-based on Chromium will be available in preview later. Microsoft now introduce an Insider program for Microsoft Edge. You can join them by clicking the [link here](/www.microsoftedgeinsider.com/en-us/ ).
 
 The difference between old Edge to Chromium Edge browser:
 ===========================================================
