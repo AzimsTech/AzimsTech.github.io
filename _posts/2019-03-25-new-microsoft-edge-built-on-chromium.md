@@ -26,13 +26,14 @@ Late last year, Microsoft announced that they were going to switch Edge over to 
 
 ![Screenshot](https://i.imgur.com/AqRlb9F.png)
 
-The difference between old Edge to Chromium Edge browser:
+What’s New in Chromium Edge browser:
 ===========================================================
-- Now you can install any Chrome Extension into Edge.
+- Now you can install any **Chrome Extension** into Edge.
 - Based on the open-source Chromium **Blink** engine instead of proprietary  **EdgeHTML** rendering engine.
-- The UI of Chromium Edge looks comfortable and familiar to Chrome now.
-- Smooth pinching and zooming animation currently not coming back to Chromium Edge.
-
+- The **UI** of Chromium Edge looks comfortable and familiar to Chrome now.
+- You can enable the same flags as in Chrome by typing "**Edge://flags/**" into address bar.
+- New Edge Browser is going truly cross-platform meaning it will available for MacOS, Linux & Chromium.
+- Youtube loads faster now.
 
 Download Leaked Chromium Edge Here
 ===================
