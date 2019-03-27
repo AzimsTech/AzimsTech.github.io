@@ -765,6 +765,11 @@ td.gutter {
   background-color: rgba(0, 0, 0, 0.2);
 }
 
+/* Nav bar toggle button (mobile version only) */
+.navbar-default .navbar-toggle {
+    border-color: #234863;
+}
+
 /* Tags page */
 
 .tag-btn {
