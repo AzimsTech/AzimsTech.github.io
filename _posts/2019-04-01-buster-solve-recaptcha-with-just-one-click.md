@@ -7,8 +7,6 @@ tags:
   - Browser Extension
   - Chrome
   - Firefox
-bigimg:
-  - null
 share-img: 'https://i.redd.it/pwlxn1u9dxt11.jpg'
 ---
 Websites have been using CAPTCHAs as a means to differentiate between actual users and bots since the early days of the Internet, but it can be really annoying when you need to do it every single time.
