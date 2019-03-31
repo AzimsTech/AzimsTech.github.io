@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Buster - Solve reCAPTCHA With Just One Click!
-subtitle: Time-saving Browser Extension
+subtitle: A Time-saving Browser Extension
 tags:
   - Browser Extension
   - Chrome
