@@ -19,7 +19,7 @@ How I Add My Google Drive Account
 Here the demonstration of how I add my **Google Drive account** into the app:
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=At32r148_RY" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/At32r148_RY" allowfullscreen></iframe>
 </div>
 
 Thanks to this app now I can copy and paste my files back and forth from my Android device without any hassle.
