@@ -22,7 +22,19 @@ Here the demonstration of how I add my **Google Drive account** into the app:
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/At32r148_RY" allowfullscreen></iframe>
 </div>
 
-Thanks to this app now I can copy and paste my files back and forth from my Android device without any hassle.
+Thanks to this app now I can **copy and paste** my files back and forth from my Android device without any hassle.
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/xBPMgYm2o44" allowfullscreen></iframe>
+</div>
+
+This is a demo on how I get the **shareable link** of my selected file from my Google Drive storage.
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/h9_nWvI72aU" allowfullscreen></iframe>
+</div>
+
+As you can see this app precisely do the most of thing that Google Drive app would do but **4x faster** which is a huge plus for me.
 
 Where do I get it?
 ===================
