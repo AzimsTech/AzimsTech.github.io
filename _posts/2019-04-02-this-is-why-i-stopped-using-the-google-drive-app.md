@@ -38,7 +38,7 @@ As you can see this app precisely do the most of thing that Google Drive app wou
 
 Where do I get it?
 ===================
-If you are interested you can download yourself the app from the original **XDA** post or the mirror links down below. 
+If you are interested you can download yourself the app from the original **XDA forum** post or the mirror links down below. 
 
 {: .box-note}
 **Mirror:** [MiXplorer_v6.35.3_B19040110.apk](https://drive.google.com/uc?export=view&id=1MYL2D7dzv3Pt8g2hP2BzcK1X9vKrI1eW)
