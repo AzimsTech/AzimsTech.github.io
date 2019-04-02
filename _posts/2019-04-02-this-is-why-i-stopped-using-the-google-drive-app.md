@@ -47,8 +47,8 @@ If you are interested you can download yourself the app from the original **XDA 
 **Download from original XDA post:** [Post link](https://forum.xda-developers.com/showpost.php?p=23109280&postcount=2)
 
 
-You also can support the developer by purchasing the **MiXplorer Silver** from the Play Store.
-Note that the difference between the free and paid version of this app is not significant. The paid version of this app is bundled with **Archive** and **SMB2** add-ons and the latest **language packs**. If you are using the free version, you have to install add-ons separately for free.
+You also can support the developer by purchasing the **MiXplorer Silver** from the [Play Store](https://play.google.com/store/apps/details?id=com.mixplorer.silver).
+Note that the difference between the free and paid version of this app is not significant. The paid version of this app is bundled with **Archive** and **SMB2** add-ons and the latest **language packs**. If you are using the free version, you have to install [add-ons](https://play.google.com/store/apps/developer?id=PishroDevs) separately for free.
 
 Research
 ===========
