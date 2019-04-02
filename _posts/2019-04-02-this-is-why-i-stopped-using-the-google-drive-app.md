@@ -12,7 +12,7 @@ If you are frequent **Google Drive** user, the app I will introduced to you will
 
 Introducing MiXplorer 
 =====================
-So what is **MiXplorer**? **MiXplorer** is a fully featured Android file manager developed by **Hootan Parsa**. If you like to know the full list of features of this app can offer you can see it from the official website here.
+So what is **MiXplorer**? **MiXplorer** is a fully featured Android file manager developed by **Hootan Parsa**. If you like to know the full list of features of this app can offer you can see it from the official website [here](https://mixplorer.com/#intro).
 
 How I Add My Google Drive Account
 =================================
@@ -32,11 +32,11 @@ If you are interested you can download yourself the app from the original XDA po
 **Mirror:** [MiXplorer_v6.35.3_B19040110.apk](https://drive.google.com/uc?export=view&id=1MYL2D7dzv3Pt8g2hP2BzcK1X9vKrI1eW)
 
 {: .box-note}
-**Download from original XDA post:** [Post link](https://forum.xda-developers.com/showthread.php?t=1523691)
+**Download from original XDA post:** [Post link](https://forum.xda-developers.com/showpost.php?p=23109280&postcount=2)
 
 
 You also can support the developer by purchasing the **MiXplorer Silver** from the Play Store.
-Note that the difference between the free and paid version of this app is not significant. The paid version of this app is bundled with **Archive** and **SMB2** add-ons and the latest **language packs**. If you are using the free version, you have to install add-ons separately.
+Note that the difference between the free and paid version of this app is not significant. The paid version of this app is bundled with **Archive** and **SMB2** add-ons and the latest **language packs**. If you are using the free version, you have to install add-ons separately for free.
 
 Research
 ===========
