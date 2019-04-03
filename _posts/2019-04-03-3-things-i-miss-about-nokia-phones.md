@@ -49,9 +49,10 @@ Instead, what all get got now is the **Bixby** buttons and **Google Asistant** s
 
 Research
 =============
-- [HMD patents the power button notification LED](https://nokiamob.net/2019/03/10/hmd-patents-the-power-button-notification-led-as-well-as-designs-of-nokia-4-2-and-210/)
-- [Ngage Multi color flash key video](https://www.youtube.com/watch?v=uN0wNFwM6yo)
+- [Nokiamob.net - HMD patents the power button notification LED](https://nokiamob.net/2019/03/10/hmd-patents-the-power-button-notification-led-as-well-as-designs-of-nokia-4-2-and-210/)
+- [Youtube - Ngage Multi color flash key video](https://www.youtube.com/watch?v=uN0wNFwM6yo)
 - [Knowyourmobile.com - Using Nokia N73 Camera](https://www.knowyourmobile.com/nokia/n73/2172/using-nokia-n73s-camera)
-- [Video from Nokia Phones Collection](https://www.youtube.com/channel/UCNDyk1vxD-LOiWNZayhj44A)
+- [Youtube - Video from Nokia Phones Collection](https://www.youtube.com/channel/UCNDyk1vxD-LOiWNZayhj44A)
 - [MKBHD's Oppo Find X Review](https://www.youtube.com/watch?v=GRSfvePdhPA&t=169s)
+- [CNET - Pixel 2 Keynotes Footage](https://www.youtube.com/watch?v=5mdk5oz6l3w)
 
