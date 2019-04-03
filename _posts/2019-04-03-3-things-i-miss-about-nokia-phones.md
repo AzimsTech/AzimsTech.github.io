@@ -15,7 +15,7 @@ Growing up I used to see various **Nokia** phones models used by family & friend
 Here are the 3 features I miss about old Nokia phones:
 
 
-1. Blinking hardware buttons.
+1) Blinking hardware buttons.
 ============================
 Remember all cell phones in the past have buttons that light up. It designed to help you use the keypad in dim or dark areas, It's funny because the phone manufacturer didn't use that light as **notification light** as we take for granted today. Instead, keys are light up in rhythm with the ringtone. Still cool though.
 
@@ -25,7 +25,7 @@ Apperently, Nokia is bringing back the backlit buttons to their smartphones. The
 
 ![Nokia X71](https://i.imgur.com/8YdbUAF.png)
 
-2.  Sliding camera cover.
+2) Sliding camera cover.
 ================================
 Early **Nokia N-series** lineups have a rear back cover that protects camera lenses from scratch. You start the camera running simply by sliding its lens cover back. I think that thing is the coolest thing in phones ever.
 
@@ -35,7 +35,7 @@ Even though the **camera lens cover** is not coming back, the **sliding camera**
 
 ![Oppo Find X](https://imgur.com/8Gf950F.gif)
 
-3. Dedicated media keys for playbacks.
+3) Dedicated media keys for playbacks.
 =======================================
 The most appealing feature in **Nokia XpressMusic** model is the dedicated media controls on the side. I mean would you look at those buttons, who didn't think it was a good idea?
 
