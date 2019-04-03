@@ -8,7 +8,7 @@ Tags:
 share-img: 'https://i.imgur.com/RJ7Va71.png'
 subtitle: Cool Old Nokia Design Choices
 ---
-Growing up I used to see various **Nokia** phones models used by family & friends or on the internet. Before owning an Android phone, I've been using a variety of Nokia phones as my "mobile computers" to surf the internet and as a **media player**. There a few **features** I wish smartphones nowadays taken from old Nokia models.
+Growing up I used to see various **Nokia** phones models used by family and friends or on the internet. Before owning an Android phone, I've been using a variety of Nokia phones as my "mobile computers" to surf the internet and as a **media player**. There a few **features** I wish smartphones nowadays taken from old Nokia models.
 
 ![Memes](https://i.redd.it/6jsbcarjzdl21.jpg)
 
