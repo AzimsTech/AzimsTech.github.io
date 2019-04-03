@@ -10,7 +10,7 @@ subtitle: Cool Old Nokia Design Choices
 ---
 Growing up I used to see various **Nokia** phones models used by family & friends or on the internet. Before owning an Android phone, I've been using a variety of Nokia phones as my "mobile computers" to surf the internet and as a **media player**. There a few **features** I wish smartphones nowadays taken from old Nokia models.
 
-![Old Nokia's startup screen](https://imgur.com/nlC7mOb.gif)
+![Memes](https://i.redd.it/6jsbcarjzdl21.jpg)
 
 Here are the 3 features I miss about old Nokia phones:
 
@@ -55,4 +55,5 @@ Research
 - [Youtube - Video from Nokia Phones Collection](https://www.youtube.com/channel/UCNDyk1vxD-LOiWNZayhj44A)
 - [MKBHD's Oppo Find X Review](https://www.youtube.com/watch?v=GRSfvePdhPA&t=169s)
 - [CNET - Pixel 2 Keynotes Footage](https://www.youtube.com/watch?v=5mdk5oz6l3w)
+- [Memes - r/Ngage subreddit](https://www.reddit.com/r/ngage/)
 
