@@ -27,7 +27,7 @@ Apperently, Nokia is bringing back the backlit buttons to their smartphones. The
 
 2) Sliding camera cover.
 ================================
-Early **Nokia N-series** lineups have a rear back cover that protects camera lenses from scratch. You start the camera running simply by sliding its lens cover back. I think that thing is the coolest thing in phones ever.
+Early **Nokia N-series** lineups have a rear back cover that protects camera lenses from scratch. You start the camera running simply by sliding its lens cover back. I still think this is the coolest item on Nokia phones ever.
 
 ![Nokia N72 Camera cover slide](https://imgur.com/JfokvAr.gif)
 
