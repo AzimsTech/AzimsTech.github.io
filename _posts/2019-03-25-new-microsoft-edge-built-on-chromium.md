@@ -5,13 +5,14 @@ title: New Microsoft Edge built on Chromium
 Tags:
   - Software
   - Download
-subtitle: The full installer has been leaked. Download Link Available!
+subtitle: Microsoft Edge based on Chromium is now officially available to download!
 Share-img:
   - 'https://i.imgur.com/AqRlb9F.png'
 share-img: 'https://i.imgur.com/AqRlb9F.png'
 tags:
   - Software
   - Download
+date: '2019-04-09'
 ---
 ### A first look at Microsoft’s new Chromium-powered Edge browser (by Windows Central)
 
@@ -35,19 +36,14 @@ What’s New in Chromium Edge browser:
 - New Edge Browser is going truly cross-platform meaning it will available for MacOS, Linux & Chromium.
 - Youtube loads faster now.
 
-Download Leaked Chromium Edge Here
-===================
-Even though It's not officially available to download yet, you can get it by downloading leaked installer download link below:
+Update (9/4/2019): It's Offical!
+========================
+Chromium Edge Dev & Canary build is now officially available to download!
 
-{: .box-note}
-[microsoftedgesetup-latest.zip](https://drive.google.com/uc?export=view&id=1BXSPxzzW0c4L_EuV16xXn-fldG8KmMIs)
+Download here: https://www.microsoftedgeinsider.com/en-us/download/
 
-When you Download this there are 3 Filles
-~~~
-A Text File
-msedge.7z File 257,529kb
-setup.exe 2330kb
-~~~
+![Download page](https://i.imgur.com/L9nF6CV.png)
+
 
 Research
 ===============
