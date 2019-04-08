@@ -38,9 +38,9 @@ What’s New in Chromium Edge browser:
 
 Update (9/4/2019): It's Offical!
 ========================
-Chromium Edge Dev & Canary build is now officially available to download!
+Chromium Edge **Dev** & **Canary** build is now officially available to download!
 
-Download here: https://www.microsoftedgeinsider.com/en-us/download/
+Download here: [https://www.microsoftedgeinsider.com/en-us/download/](https://www.microsoftedgeinsider.com/en-us/download/)
 
 ![Download page](https://i.imgur.com/L9nF6CV.png)
 
