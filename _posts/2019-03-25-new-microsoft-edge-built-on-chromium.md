@@ -4,6 +4,7 @@ published: true
 title: New Microsoft Edge built on Chromium
 Tags:
   - Software
+  - Microsoft Edge
   - Download
 subtitle: Microsoft Edge based on Chromium is now officially available to download!
 Share-img:
