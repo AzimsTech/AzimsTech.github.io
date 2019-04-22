@@ -7,6 +7,9 @@ Tags:
   - Nostalgia
 share-img: 'https://i.imgur.com/RJ7Va71.png'
 subtitle: Cool Old Nokia Design Choices
+tags:
+  - List
+  - Nostalgia
 ---
 Growing up I used to see various **Nokia** phones models used by family and friends or on the internet. Before owning an Android phone, I've been using a variety of Nokia phones as my "mobile computers" to surf the internet and as a **media player**. There a few **features** I wish smartphones nowadays taken from old Nokia models.
 
@@ -56,4 +59,3 @@ Research
 - [MKBHD's Oppo Find X Review](https://www.youtube.com/watch?v=GRSfvePdhPA&t=169s)
 - [CNET - Pixel 2 Keynotes Footage](https://www.youtube.com/watch?v=5mdk5oz6l3w)
 - [Memes - r/Ngage subreddit](https://www.reddit.com/r/ngage/)
-
