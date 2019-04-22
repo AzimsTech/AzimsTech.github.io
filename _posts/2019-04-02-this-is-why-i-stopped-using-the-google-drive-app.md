@@ -7,6 +7,9 @@ Tags:
   - Android
 share-img: 'https://i.imgur.com/jPxTDKW.png'
 subtitle: Manage Your Google Drive Storage Directly From File Explorer
+tags:
+  - Apps
+  - Android
 ---
 If you are frequent **Google Drive** user, the app I will introduced to you will save you hundreds of hours. Unlike the official Google Drive app, you can manage your offline files in your phone as well as files in your Google Drive account in one place by using this app.
 
