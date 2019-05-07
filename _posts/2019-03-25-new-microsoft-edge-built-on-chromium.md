@@ -15,13 +15,13 @@ tags:
   - Download
 date: '2019-04-09'
 ---
-### A first look at Microsoft’s new Chromium-powered Edge browser (by Windows Central)
+### Microsoft’s new Chromium-powered Edge browser
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40AzimsLives)](https://twitter.com/AzimsLives)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/AzimsTech)
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/H61jOPS0IJ8" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=dKmzyj-ovkg" allowfullscreen></iframe>
 </div>
 
 Late last year, Microsoft announced that they were going to switch Edge over to the Chromium **Blink** rendering engine. Edge-based on Chromium will be available in preview later. Microsoft now introduce an **Insider program** for Microsoft Edge. You can join them by clicking the [link to the insider program here](https://www.microsoftedgeinsider.com/en-us/ ).
