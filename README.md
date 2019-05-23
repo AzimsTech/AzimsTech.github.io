@@ -41,7 +41,7 @@ Many personalization settings in `_config.yml`, such as setting your name and si
 
 ### Allowing users to leave comments
 
-If you want to enable comments on your site, Beautiful Jekyll supports either the [Disqus](https://disqus.com/) comments plugin, [Facebook](https://developers.facebook.com/docs/plugins/comments) comments or [Staticman](https://staticman.net). If any of these are set in the configuration file, then all blog posts will have comments turned on by default. To turn off comments on a particular blog post, add `comments: false` to the YAML front matter. If you want to add comments on the bottom of a non-blog page, add `comments: true` to the YAML front matter.
+If you want to enable comments on your site, Beautiful Jekyll supports either the [Disqus](https://disqus.com/) comments plugin, [Facebook](https://developers.facebook.com/docs/plugins/comments) comments, [Staticman](https://staticman.net) or [JustComments](https://just-comments.com). If any of these are set in the configuration file, then all blog posts will have comments turned on by default. To turn off comments on a particular blog post, add `comments: false` to the YAML front matter. If you want to add comments on the bottom of a non-blog page, add `comments: true` to the YAML front matter.
 
 #### Disqus comments
 
@@ -54,6 +54,10 @@ To use Facebook comments, create a Facebook app using [Facebook developers](http
 #### Staticman comments
 
 To use Staticman, you first need to invite `staticmanlab` as a collaborator to your repository (by going to your repository **Settings** page, navigate to the **Collaborators** tab, and add the username `staticmanlab`), and then accept the invitation by going to `https://staticman3.herokuapp.com/v3/connect/github/<username>/<repo-name>`. Lastly, fill in your `repository` and `branch` in the Staticman section of `_config.yml`.
+
+#### JustComments
+
+To use JustComments you first need to have an account. After you just need to copy the API key to the `just-comments` property in `_config.yml` file.
 
 ### Adding Google Analytics to track page views
 
@@ -84,7 +88,7 @@ title       | Page or blog post title
 subtitle    | Short description of page or blog post that goes under the title
 tags        | List of tags to categorize the post. Separate the tags with commas and place them inside square brackets. Example: `[personal, self help, finance]`
 bigimg      | Include a large full-width image at the top of the page.  You can either give the path to a single image, or provide a list of images to cycle through (see [my personal website](https://deanattali.com/) as an example).
-comments    | If you want do add Disqus comments to a specific page, use `comments: true`. Comments are automatically enabled on blog posts; to turn comments off for a specific post, use `comments: false`. Comments only work if you set your Disqus id in the `_config.yml` file.
+comments    | If you want do add comments to a specific page, use `comments: true`. Comments are automatically enabled on blog posts; to turn comments off for a specific post, use `comments: false`. Comments only work if you enable at least one provider(diqus, staticman, just-comments) in `_config.yml` file.
 show-avatar | If you have an avatar configured in the `_config.yml` but you want to turn it off on a specific page, use `show-avatar: false`. If you want to turn it off by default, locate the line `show-avatar: true` in the file `_config.yml` and change the `true` to `false`; then you can selectively turn it on in specific pages using `show-avatar: true`.
 image       | If you want to add a personalized image to your blog post that will show up next to the post's excerpt and on the post itself, use `image: /path/to/img`.
 share-img   | If you want to specify an image to use when sharing the page on Facebook or Twitter, then provide the image's full URL here.
@@ -174,6 +178,12 @@ Beautiful Jekyll is meant to be so simple to use that you can do it all within t
     docker run -d -p 4000:4000 --name beautiful-jekyll -v "$PWD":/srv/jekyll beautiful-jekyll
     ```
 
+Note: If you encounter write permission problems with `Gemfile.lock`, try:
+
+```bash
+touch Gemfile.lock
+chmod a+w Gemfile.lock
+```
 
 Now that Docker is set up, you do not need to run the above steps again. You can now view your website at http://localhost:4000/. You can start the container again in the future with:
 
