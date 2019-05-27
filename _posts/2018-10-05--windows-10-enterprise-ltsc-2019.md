@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: ' Windows 10 Enterprise LTSC 2019'
-subtitle: Download Link Updated
+subtitle: The Latest Feb Re-release ISO (17763.316) Download Link Available!
 bigimg: >-
   https://www.windowslatest.com/wp-content/uploads/2018/06/Windows-10-June-Update.jpg
 share-img: 'https://i.imgur.com/QuHTJZf.png'
@@ -10,7 +10,7 @@ tags:
   - Windows 10
   - LTSB/LTSC
 permalink: /2018-10-05-windows-10-enterprise-ltsc-2019/
-date: '2019-05-28'
+date: '2019-03-19'
 ---
 ### The next LTSC release, Windows 10 Enterprise LTSC 2019 is available for Download today!
 
@@ -42,14 +42,21 @@ What's New Since LTSB 2016?
 Download Here
 =================
 
+<b style="color:red">Update:</b> New links are now based from Mirosoft [Re-released Windows 10 1809](https://support.microsoft.com/en-us/help/4464619/windows-10-update-history)  
 
-<b style="color:red">Update:</b> Download link are now removed use UUP dump website instead. Links to UUP dump's tutorial added.
-
+<b style="color:red">Update 2:</b> Link are now updated to RE-release + Feb. 12, 2019 Cumulative Update **KB4487044**. This is the latest February 2019 refresh iso **(OS Build: 17763.316)**
 
 {: .box-note}
-**Download link:** [From UUP dump website](https://uupdump.ml)
+**64-bit ISO:**  en_windows_10_enterprise_ltsc_2019_x64_dvd_5795bb03.iso 
+**SHA256:** B570DDFDC4672F4629A95316563DF923BD834AEC657DE5D4CA7C7EF9B58DF2B1
+**SHA1:** 615A77ECD40E82D5D69DC9DA5C6A6E1265F88E28
+
 {: .box-note}
-**Tutorial:** [by Enthousiast @ MDL Forum](https://forums.mydigitallife.net/threads/discussion-download-uup-dump-download-windows-10-uups-with-ease.75052/page-122#post-1515405)
+**32-bit ISO:**  en_windows_10_enterprise_ltsc_2019_x86_dvd_892869c9.iso
+**SHA256:** 9D7016AD77E8E95F57A4CB068C01C282A5C6468301BC2C01FB194E23F3D57DEE
+**SHA1:** 88AF607F1E752761577D21F2B7AA98692809BF66
+
+**Download link:** [Download link is provided by Wzor](https://cloud.mail.ru/public/ErcU/GjSmd64qM)
 
 
 Activation
@@ -63,10 +70,7 @@ Digital License (HWID) & KMS38™ Generation - Long life KMS38™ activation (19
 
 _*note: KMS38 is simply KMS activation until 2038 (not KMS for 38 years)._
 
-**How to check?:-** 
-
-Type this command from CMD or PowerShell
-![See here](https://i.imgur.com/aA5FA8h.png)
+**How to check?:-** [See here.](https://i.imgur.com/aA5FA8h.png)
 
 Research and alternatives
 ===============================
