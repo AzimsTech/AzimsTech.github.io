@@ -20,11 +20,11 @@ date: '2019-05-30'
 
 ## Objectives 
 The main goal of this guide to help me & others understand the `fundamental` skill of using this powerful tool. I think the official documentation is too big, and useful tips are hard to find (not really, but people are lazy). 
-  
+<!--break-->  
 I'm aware there's few decent [**GUI** version](https://github.com/MrS0m30n3/youtube-dl-gui/releases) out there, but by using and learning **CLI** version gives more flexibility and new idea in my opinion.  
   
 By creating this guide, I hope I can master the program entirely, which is helpful to me if I want to `contribute` to the project someday.   
-</details>
+
 
 ![](http://i.imgur.com/8Fkp3hS.png)
 
