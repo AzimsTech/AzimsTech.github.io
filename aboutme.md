@@ -6,14 +6,10 @@ published: true
 show-avatar: false
 ---
 
-My name is Azims. I have the following qualities:
+Hello World! My name is Azims. I’m an independent tech journalist from Malaysia who is enthusiasts in technology, mainly in software.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I love to document every new thing I learn and share my knowledge with others.
 
-What else do you need?
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just visit [my old site](https://azimslives.wordpress.com) and it will answer **all** your questions.
-
+If you like to ask me a question, please DM me on [Twitter](https://twitter.com/AzimsLives). I try my to answer your questions.
