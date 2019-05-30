@@ -7,8 +7,8 @@ Tags:
   - Microsoft Edge
   - Download
 Share-img:
-  - 'https://i.imgur.com/AqRlb9F.png'
-share-img: 'https://i.imgur.com/AqRlb9F.png'
+  - 'http://i.imgur.com/8Fkp3hS.png'
+share-img: 'http://i.imgur.com/8Fkp3hS.png'
 tags:
   - How-to
   - Software
