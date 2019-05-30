@@ -16,7 +16,7 @@ tags:
 subtitle: Use YouTube-dl the easy way
 date: '2019-05-30'
 ---
-[![GitHub issues](https://img.shields.io/github/watchers/AzimsTech/Youtube-dl-guide.svg?style=social)] [![GitHub issues](https://img.shields.io/github/last-commit/AzimsTech/Youtube-dl-guide.svg)] 
+![GitHub issues](https://img.shields.io/github/watchers/AzimsTech/Youtube-dl-guide.svg?style=social) ![GitHub issues](https://img.shields.io/github/last-commit/AzimsTech/Youtube-dl-guide.svg)
 ==========
 
 ## Objectives
