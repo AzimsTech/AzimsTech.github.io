@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Independent tech Journarlist
+title: Google Drive Direct Link
+subtitle: Simple Direct Link Generator
 published: true
 show-avatar: false
 ---
