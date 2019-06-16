@@ -1,49 +1,17 @@
 <html>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
+    
+    <style> 
+ 
 
-        }
-
-        html, body {
-            height: 100%;
-        }
 
         body {
             color: #444;
             font: 14px/2 Arimo, Arial, sans-serif;
         }
 
-        #page {
-            height: 100%;
-            margin: auto;
-            padding: 0 1em;
-            padding-top: 1px; /* Prevent margin collapse */
-            position: relative;
-            width: 960px;
-        }
 
-        button,
-        input {
-            font: 14px/2 Arimo, Arial, sans-serif;
-            height: 2em;
-            padding: 0 1em;
-            vertical-align: middle;
-        }
-        input{width: -webkit-fill-available;} 
 
-        button {
-            background: #4d90fe;
-            border: 1px solid transparent;
-            border-radius: 2px;
-            color: #fff;
-            font-weight: bold;
-        }
-        
-        button:hover {
-            background: #ddd;
-        }
+
         
         h1 a {
             color: #444;
@@ -99,7 +67,7 @@
 
         #processed-link {
             color: #bbb;
-            margin-top: 1em;
+            margin-top: 2em;
         }
 
         #footer {
@@ -123,21 +91,49 @@
         }
     </style>
 
+    <style>
+        .no-gutter{
+            padding-right: 0;
+            padding-left: 0;
+        }
+        .wrap{
+            white-space: normal;
+        }
+        .margin-0 {
+            margin-bottom: 0;
+        }
+        .margin-30 {
+            margin-top: 30px;
+        }
 
-        <div class="container" id='content'>
-            <div class="row">
-                    <div class="col-7">
-                        <input id='link' type='text' size='80' placeholder='Paste your link or file ID here'>
-                    </div>
-                    <div class="col">
-                            <button id='get'>Get direct link</button>
-                    </div>
-                    <div class="col">
-                            <button id='clear'>Clear</button>
-                    </div>
-                    
-            </div>
-        </div>
+ 
+    </style>
+
+    <div class="container-fluid margin-30" id="content">
+        <form action="#" autocomplete="nope">
+            <form class="form-row">
+                <div class="form-group col-md-8">
+                        <label class="sr-only" for="link">Shareable link</label>   
+                        <input id="link" type="text" class="form-control"  placeholder="Paste your link or file ID here">
+                </div>
+                <div class="form-group col-md-4">
+            
+                            <button id="get" type="button" class="btn btn-primary ">Get direct link</button>
+                            <button id="clear" type="button" class="btn btn-light ">Clear</button>
+                        
+                </div>
+            
+            </form>
+        </form>
+    </div>
+
+        
+      
+ 
+
+
+
+
 
 
     <script>
