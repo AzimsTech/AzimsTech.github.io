@@ -172,7 +172,11 @@
 
             dom.gid('content').appendChild(link_wrapper);
 
-            
+            navigator.clipboard.writeText(url).then(function() {
+                console.log("/* clipboard successfully set */");
+            }, function() {
+                console.log("/* clipboard write failed */");
+            });
         });
 
         dom.click(dom.gid('clear'), function() {
@@ -192,13 +196,6 @@
 
                 link = (results) ? results[1] : null;
 
-                // copy url to the clipboard
-                navigator.clipboard.writeText(url).then(function() {
-                    console.log("/* clipboard successfully set */");
-                }, function() {
-                    console.log("/* clipboard write failed */");
-                });
-
                 return link;
 
             }else{
@@ -207,13 +204,6 @@
                 var results = pattern.exec(link);
 
                 link = (results) ? results[1] : null;
-
-                // copy url to the clipboard
-                navigator.clipboard.writeText(url).then(function() {
-                    console.log("/* clipboard successfully set */");
-                }, function() {
-                    console.log("/* clipboard write failed */");
-                });
 
                 return link;
             }
