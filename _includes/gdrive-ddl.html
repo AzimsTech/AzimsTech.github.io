@@ -104,13 +104,14 @@
         }
         .margin-30 {
             margin-top: 30px;
+            padding: 0;
         }
 
  
     </style>
 
     <div class="container-fluid margin-30" id="content">
-        <form action="#" autocomplete="nope">
+        <form autocomplete="nope">
             <form class="form-row">
                 <div class="form-group col-md-8">
                         <label class="sr-only" for="link">Shareable link</label>   
@@ -118,7 +119,7 @@
                 </div>
                 <div class="form-group col-md-4">
             
-                            <button id="get" type="button" class="btn btn-primary ">Get direct link</button>
+                            <button id="get" type="button" class="btn btn-primary">Get direct link</button>
                             <button id="clear" type="button" class="btn btn-light ">Clear</button>
                         
                 </div>
@@ -171,9 +172,15 @@
 
             link_wrapper = document.createElement('div');
             link_wrapper.id = el_processed_link_id;
-            link_wrapper.innerHTML = '↳ ' + link;
+            link_wrapper.innerHTML = '↳ ' + link + '<p class="bg-warning"">Link Copied to the clipboard!</p>';
 
             dom.gid('content').appendChild(link_wrapper);
+
+            navigator.clipboard.writeText(url).then(function() {
+                console.log("/* clipboard successfully set */");
+            }, function() {
+                console.log("/* clipboard write failed */");
+            });
         });
 
         dom.click(dom.gid('clear'), function() {
@@ -205,6 +212,8 @@
                 return link;
             }
         }
+
+
     </script>
 
 </html>
