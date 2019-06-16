@@ -5,7 +5,8 @@ subtitle: Simple Direct Link Generator
 published: true
 show-avatar: false
 ---
-
+[![Maintenance](https://img.shields.io/maintenance/yes/2019.svg)](https://github.com/AzimsTech/AzimsTech.github.io/commits/master)
+[![GitHub followers](https://img.shields.io/github/followers/AzimsTech.svg?style=social)](https://github.com/AzimsTech?tab=followers)
 
 
 {% include gdrive-ddl.html %}
