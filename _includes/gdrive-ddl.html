@@ -185,10 +185,14 @@
         });
 
         function process_link (link) {
+            console.log(link);
+            var link = link.concat('/'); //fix missing foward slash 
+
             var pattern = /\/d\/(.+?)\//i;
             var results = pattern.exec(link);
 
-            link = (results) ? results[1] : null;
+
+            link = (results) ? results[0] : null;
 
             return link;
         }
