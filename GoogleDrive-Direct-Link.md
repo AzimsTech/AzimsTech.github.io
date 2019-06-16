@@ -10,10 +10,10 @@ show-avatar: false
 
 ### test
 
-<div id='content'>
-<form>
-<div class="form-row">
-    <div class="col-7">
+<div class="container" id='content'>
+
+<div class="row">
+    <div class="col-6">
         <input id='link' type='text' size='80' placeholder='Paste your link or file ID here'>
     </div>
     <div class="col">
@@ -24,7 +24,7 @@ show-avatar: false
     </div>
     
 </div>
-</form>
+
 </div>
 
 ## How to get Shareable link
