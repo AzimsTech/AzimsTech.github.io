@@ -33,9 +33,7 @@
             border: 1px solid #4d90fe;
         }
         
-        #get {
-            
-        }
+
         
         #get:hover {
             background-image: linear-gradient(top, #4d90fe, #357ae8);
@@ -160,8 +158,19 @@
             }
 
             var url = base_url + id;
-            var link = (id) ? '<a href="' + url + '">' + url + '</a>' : '<span class="error">Wrong link or ID</span>';
+            var link = '';
             var link_wrapper = dom.gid(el_processed_link_id);
+
+            if ((id)){
+                navigator.clipboard.writeText(url);
+                     link  =  '<a href="' + url + '">' + url + '</a>' + '<p class="bg-success">Link copied to the clipboard!</p>' ;
+                    
+ 
+            }else{
+                link = '<span class="bg-warning">Wrong link or ID</span>';
+                
+            }
+            console.log(id);
             
             if (link_wrapper) {
                 dom.remove(link_wrapper);
@@ -172,6 +181,8 @@
             link_wrapper.innerHTML = '↳ ' + link;
 
             dom.gid('content').appendChild(link_wrapper);
+
+            console.log(link);
         });
 
         dom.click(dom.gid('clear'), function() {
