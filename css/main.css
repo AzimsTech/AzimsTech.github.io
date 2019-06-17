@@ -7,12 +7,9 @@ body {
   font-size: 18px;
   color: #404040;
   position: relative;
+  background-color: #FFFFFF;
   word-wrap: break-word; // fixed the issue where long hyperlink causing the mobile page not showing correctly
-  background-color: {{ site.page-col }};
-  {% if site.page-img %}
-  background-image: url({{ site.page-img | relative_url }});
-  background-attachment: fixed;
-  {% endif %}
+  
 }
 p {
   line-height: 1.5;
@@ -49,6 +46,8 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .main-content {
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
     padding-top: 130px;
   }
 }
@@ -112,10 +111,6 @@ img {
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border-color: #234863;
-  {% if site.navbar-img %}
-  background-image: url({{ site.navbar-img | relative_url }});
-  background-attachment: fixed;
-  {% endif %}
 }
 
 .navbar-custom .nav li a {
@@ -212,6 +207,7 @@ img {
   }
 }
 
+
 /* Multi-level navigation links */
 .navbar-custom .nav .navlinks-container {
   position: relative;
@@ -268,11 +264,8 @@ footer {
   border-top: 1px #EAEAEA solid;
   margin-top: 50px;
   font-size: 14px;
-  background-color: {{ site.footer-col }};
-  {% if site.footer-img %}
-  background-image: url({{ site.footer-img | relative_url }});
-  background-attachment: fixed;
-  {% endif %}
+  background-color: #1d1d1d;
+  
 }
 
 footer p.text-muted {

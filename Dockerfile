@@ -1,7 +1,7 @@
 FROM jekyll/jekyll
 
-COPY --chown=jekyll:jekyll Gemfile .
-COPY --chown=jekyll:jekyll Gemfile.lock .
+COPY Gemfile .
+COPY Gemfile.lock .
 
 RUN bundle install --quiet --clean
 

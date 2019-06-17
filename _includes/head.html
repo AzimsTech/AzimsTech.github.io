@@ -53,7 +53,7 @@
   <meta name="description" content="{{ page.subtitle }}">
   {% endif %}
 
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ '/feed.xml' | relative_url }}" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
   {% include gtag.html %}
   {% include gtm_head.html %}
@@ -68,7 +68,7 @@
 
   {% if layout.common-css %}
     {% for css in layout.common-css %}
-      <link rel="stylesheet" href="{{ css | relative_url }}" />
+      <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}" />
     {% endfor %}
   {% endif %}
 
@@ -86,7 +86,7 @@
 
   {% if page.css %}
     {% for css in page.css %}
-      <link rel="stylesheet" href="{{ css | relative_url }}" />
+      <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}" />
     {% endfor %}
   {% endif %}
 
@@ -168,7 +168,7 @@
 
   {% if page.comments and site.staticman.repository and site.staticman.branch %}
   <!-- Staticman -->
-  <link rel="stylesheet" href="{{ "/css/staticman.css" | relative_url }}" />
+  <link rel="stylesheet" href="{{ "/css/staticman.css" | prepend: site.baseurl }}" />
   {% endif %}
 
 </head>

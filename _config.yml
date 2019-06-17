@@ -85,7 +85,7 @@ social-network-links:
   github: AzimsTech
   twitter: AzimsLives
   reddit: Azims
-
+#  google-plus: +DeanAttali
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -102,6 +102,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
+  google: false
   linkedin: true
 
 # How to display the link to the website in the footer
