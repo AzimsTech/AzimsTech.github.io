@@ -11,6 +11,7 @@ body {
   font-size: 18px;
   color: #404040;
   position: relative;
+  word-wrap: break-word; // fixed the issue where long hyperlink causing the mobile page not showing correctly
   background-color: {{ site.page-col }};
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
@@ -107,12 +108,17 @@ img {
 
 .navbar-custom {
   background-color: {{ site.navbar-col }};
-  border-bottom: 1px solid #EAEAEA;
+  border-bottom: 1px solid {{ site.navbar-col }};
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img | relative_url }});
   background-attachment: fixed;
   {% endif %}
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form { /* Border color mobile navbar when collapse */
+  border-color: {{ site.navbar-col }};
 }
 
 .navbar-custom .nav li a {
@@ -253,7 +259,7 @@ img {
   }
   .navbar-custom .nav .navlinks-container .navlinks-children a {
     padding-left: 10px;
-    border: 1px solid #eaeaea;
+    border: 1px solid {{ site.navbar-children-col }};
     border-width: 0 1px 1px;
   }
 }
@@ -433,8 +439,15 @@ footer .theme-by {
 /* --- Post and page headers --- */
 
 .intro-header {
-  margin: 80px 0 20px;
+  margin: 0px;
+  padding: 80px 0 80px;
   position: relative;
+  background-color: #234863 !important;
+}
+.post{
+  margin: 80px 0 0px !important;
+  padding: 80px 0 0px !important;
+  background-color: white !important;									   
 }
 .intro-header.big-img {
   background: no-repeat center center;
@@ -461,6 +474,8 @@ footer .theme-by {
 }
 .intro-header .page-heading {
   text-align: center;
+  color: #FFF;
+  text-shadow: 1px 1px 3px #000;
 }
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
@@ -513,10 +528,14 @@ footer .theme-by {
 }
 @media only screen and (min-width: 768px) {
   .intro-header {
-    margin-top: 130px;
+    margin-top: 0px;
   }
   .intro-header.big-img {
     margin-top: 91px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
+    padding: unset;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading  {
@@ -757,6 +776,10 @@ td.gutter {
   background-color: rgba(0, 0, 0, 0.2);
 }
 
+/* Nav bar toggle button (mobile version only) */
+.navbar-default .navbar-toggle {
+  border-color: {{ site.navbar-col }};
+}
 /* Tags page */
 
 .tag-btn {
