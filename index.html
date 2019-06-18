@@ -61,12 +61,12 @@ share-img: "https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/mast
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
   <li class="previous">
-    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
+    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Newer Posts</a>
   </li>
   {% endif %}
   {% if paginator.next_page %}
   <li class="next">
-    <a href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
+    <a href="{{ paginator.next_page_path | relative_url }}">Older Posts &raquo;</a>
   </li>
   {% endif %}
 </ul>
