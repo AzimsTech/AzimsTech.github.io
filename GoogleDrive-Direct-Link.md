@@ -5,7 +5,7 @@ subtitle: Simple Direct Link Generator
 published: true
 show-avatar: false
 ---
-### Turn any Google Drive shareable link into a direct link
+<h3 id="app"> Turn any Google Drive shareable link into a direct link</h3>
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40AzimsLives)](https://twitter.com/AzimsLives) [![Maintenance](https://img.shields.io/maintenance/yes/2019.svg)](https://github.com/AzimsTech/AzimsTech.github.io/commits/master) [![GitHub followers](https://img.shields.io/badge/Github-Source%20Code-blue.svg?style=popout-square)](https://github.com/AzimsTech/AzimsTech.github.io/blob/master/_includes/gdrive-ddl.html)
 
 <style>
