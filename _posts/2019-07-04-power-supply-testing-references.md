@@ -37,7 +37,7 @@ date: '2019-07-05'
 ## Connector References
 ![](https://i.imgur.com/dgLY6d8.png)
   
-</table>
+
 
 
 ## Voltage References
