@@ -2,11 +2,17 @@
 layout: post
 published: true
 title: Power Supply Testing References
+Tags:
+  - PC Hardware
+  - Guide
+Share-img:
+  - 'https://i.imgur.com/UdsSZya.png'
+share-img: 'https://i.imgur.com/UdsSZya.png'
 tags:
   - PC Hardware
   - Guide
- Share-img: 'https://i.imgur.com/UdsSZya.png'
- date: '2019-07-05'
+date: '2019-07-05'
+---
 ---
 **Warning: the following procedures might damage your PSU or connected devices. Do it at your own risk!**
 
