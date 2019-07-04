@@ -13,7 +13,7 @@ tags:
   - Guide
 date: '2019-07-05'
 ---
----
+
 **Warning: the following procedures might damage your PSU or connected devices. Do it at your own risk!**
 
 ![cover](https://i.imgur.com/UdsSZya.png)
