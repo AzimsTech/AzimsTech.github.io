@@ -24,7 +24,7 @@ title: Power Supply Testing References
 
 ![24-pin ATX References](https://i.imgur.com/Bux2s8g.png)
 
-![Peripherals](http://www.smpspowersupply.com/ATX-connectors.JPG)
+![Peripherals](https://i.imgur.com/VSHF5hm.jpg)
 
 
 ## Voltage References
@@ -38,6 +38,10 @@ Output | Tolerance | Minimum | Nominal | Maximum | Color
 +5 V | ±5% | 4.75 V | +5.00 V | 5.25 V | Red/Gray/Purple
 -5 V | ±5% | 4.75 V | +5.00 V | 5.25 V | White
 +3.3 V | ±5% | 3.14 V | +3.30 V | 3.47 V | Orange
+
+## Research
+- https://www.reddit.com/r/techsupport/wiki/psutesting
+- http://www.smpspowersupply.com/connectors-pinouts.html
 
 
 
