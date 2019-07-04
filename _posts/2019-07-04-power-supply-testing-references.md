@@ -35,9 +35,18 @@ date: '2019-07-05'
 
 
 ## Connector References
-24-pin  power connectors          |  Peripheral power connectors
-:-------------------------:|:-------------------------:
-![24-pin ATX References](https://i.imgur.com/Bux2s8g.png) | ![Peripherals](https://i.imgur.com/VSHF5hm.jpg) ![Peripherals](https://i.imgur.com/1qlX3ui.gif)
+<table>
+  <tr>
+    <th> 24-pin  power connectors  </th>
+    <th> Peripheral power connectors </th>
+  </tr><tr>
+  <td rowspan="2"> <img src="https://i.imgur.com/Bux2s8g.png"> </td>
+  <td> <img src="https://i.imgur.com/VSHF5hm.jpg"> </td>
+  </tr><tr>
+  <td> <img src="https://i.imgur.com/1qlX3ui.gif"> </td>
+  </tr>
+  
+</table>
 
 
 ## Voltage References
