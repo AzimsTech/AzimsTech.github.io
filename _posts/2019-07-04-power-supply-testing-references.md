@@ -2,8 +2,14 @@
 layout: post
 published: true
 title: Power Supply Testing References
+tags:
+  - PC Hardware
+  - Guide
+ Share-img: 'https://i.imgur.com/UdsSZya.png'
 ---
 **Warning: the following procedures might damage your PSU or connected devices. Do it at your own risk!**
+
+![cover](https://i.imgur.com/UdsSZya.png)
 
 ## Requirments
 - A Multimeter.
