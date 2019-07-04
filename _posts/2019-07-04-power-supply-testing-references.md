@@ -11,6 +11,7 @@ share-img: 'https://i.imgur.com/UdsSZya.png'
 tags:
   - PC Hardware
   - Guide
+subtitle: By using a Multimeter
 date: '2019-07-05'
 ---
 
