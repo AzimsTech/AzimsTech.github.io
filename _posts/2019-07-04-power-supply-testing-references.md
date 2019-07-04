@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Power Supply Testing References
 ---
 **Warning: the following procedures might damage your PSU or connected devices. Do it at your own risk!**
