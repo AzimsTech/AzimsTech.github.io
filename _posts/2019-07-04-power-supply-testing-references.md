@@ -35,16 +35,7 @@ date: '2019-07-05'
 
 
 ## Connector References
-<table>
-  <tr>
-    <th> 24-pin  power connectors  </th>
-    <th> Peripheral power connectors </th>
-  </tr><tr>
-  <td rowspan="2" width="60%"> <img src="https://i.imgur.com/Bux2s8g.png"> </td>
-  <td> <img src="https://i.imgur.com/VSHF5hm.jpg"> </td>
-  </tr><tr>
-  <td> <img src="https://i.imgur.com/1qlX3ui.gif"> </td>
-  </tr>
+![](https://i.imgur.com/dgLY6d8.png)
   
 </table>
 
