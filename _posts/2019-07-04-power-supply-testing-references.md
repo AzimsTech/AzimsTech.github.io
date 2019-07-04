@@ -35,10 +35,9 @@ date: '2019-07-05'
 
 
 ## Connector References
-
-![24-pin ATX References](https://i.imgur.com/Bux2s8g.png)
-
-![Peripherals](https://i.imgur.com/VSHF5hm.jpg)
+24-pin  power connectors          |  Peripheral power connectors
+:-------------------------:|:-------------------------:
+![24-pin ATX References](https://i.imgur.com/Bux2s8g.png) | ![Peripherals](https://i.imgur.com/VSHF5hm.jpg) ![Peripherals](https://i.imgur.com/1qlX3ui.gif)
 
 
 ## Voltage References
@@ -54,8 +53,11 @@ Output | Tolerance | Minimum | Nominal | Maximum | Color
 +3.3 V | ±5% | 3.14 V | +3.30 V | 3.47 V | Orange
 
 ## Research
-- https://www.reddit.com/r/techsupport/wiki/psutesting
-- http://www.smpspowersupply.com/connectors-pinouts.html
+- [https://en.wikipedia.org/wiki/Power_supply_unit_(computer)](https://en.wikipedia.org/wiki/Power_supply_unit_(computer))
+- [https://www.intel.com/content/www/us/en/technology-provider/power-supply-design-guide.html](https://www.intel.com/content/www/us/en/technology-provider/power-supply-design-guide.html)
+- [http://www.smpspowersupply.com/connectors-pinouts.html](http://www.smpspowersupply.com/connectors-pinouts.html)
+- [https://www.reddit.com/r/techsupport/wiki/psutesting](https://www.reddit.com/r/techsupport/wiki/psutesting)
+
 
 
 
