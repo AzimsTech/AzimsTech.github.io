@@ -23,12 +23,12 @@ date: '2019-07-05'
 
 ![cover](https://i.imgur.com/UdsSZya.png)
 
-## Requirments
+## Requirements
 - A Multimeter.
 - A small metal wire like paper clip or a short wire.
 - Any single device to plug in into SATA or Molex connectors for adding load to PSU.
 
-## Prepare
+## Preparation
 1. Unplug power cord from PSU.
 2. Use a bare metal paperclip, or a wire, to connect the green pin (PS_ON) shown here to any of the black pins (Ground). [Example](http://acidx.net/wordpress/wp-content/uploads/2011/12/psu_test_002.jpg)
 3. To give a load to PSU, plug any device into molex or sata connector such as fans, Hard Drive, Led strip.
