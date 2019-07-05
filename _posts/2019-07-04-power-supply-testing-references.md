@@ -15,6 +15,10 @@ subtitle: By using a Multimeter
 date: '2019-07-05'
 ---
 
+[![Follow](https://img.shields.io/twitter/follow/AzimsLives.svg?style=social)](https://twitter.com/AzimsLives)
+<a href="{{ site.github.repository_url }}/tree/master/{{ page.path }}"><img src="https://img.shields.io/maintenance/yes/2019.svg"></a>
+
+
 **Warning: the following procedures might damage your PSU or connected devices. Do it at your own risk!**
 
 ![cover](https://i.imgur.com/UdsSZya.png)
