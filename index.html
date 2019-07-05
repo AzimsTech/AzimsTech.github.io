@@ -34,7 +34,7 @@ share-img: "https://raw.githubusercontent.com/AzimsTech/AzimsTech.github.io/mast
 	    
 
 	    <div class="entry__image">
-		    {% assign f = feature_image | split: '.' %}
+		    {% assign f = share-img | split: '.' %}
 		    <noscript><img src="{{ f[0] | relative_url }}-320.{{ f[1] }}" class="entry-image" alt=""></noscript>
 		    <img data-sizes="auto"
 			 src="{{ f[0] | relative_url }}-lq.{{ f[1] }}"
