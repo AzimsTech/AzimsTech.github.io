@@ -32,8 +32,6 @@ show-avatar: false
 
 {% include gdrive-ddl.html %}
 
-<a href="{{ site.github.repository_url }}/tree/master/{{ page.relative_path }}">Edit</a>
-
 
 #### How to get shareable link
 ![](https://i.imgur.com/gKIRYC3.png)
