@@ -7,28 +7,23 @@ subtitle: Free OEM solution for Disk Cloning & Backup
 
 Check the links below for free OEM solution:
 
-ADATA
+[ADATA](http://www.adata.com/us/ss/software-5/)
 
-Apacer note: installation media supported with the drive.
+[Apacer](http://event.apacer.com/SSD-installation/How_EN/#w01)
 
-WD
+[WD](https://support.wdc.com/downloads.aspx?p=119)
 
-Intel
+[Intel](https://downloadcenter.intel.com/download/19324/Intel-Data-Migration-Software?product=80098)
 
-Seagate
+[Seagate](https://www.seagate.com/support/downloads/discwizard/)
 
-Kingston
+[Kingston](https://www.kingston.com/en/support/technical/acronis-download)
 
-Crucial note : s/n supplied with the drive.
+[Crucial](http://www.crucial.com/clone)
 
-OCZ (Toshiba) note: for select OCZ drives
+[OCZ (Toshiba)](https://www.ocz.com/eu/download/acronis)
 
-SanDisk
+[SanDisk](https://kb.sandisk.com/app/answers/detail/a_id/19869/~/acronis-true-image-support-information)
 
-PNY
+[PNY](http://www.pny.com/qr/acronis-install)
 
-Here is also a KB article describing the process.
-
-And I would also recommend to watch this and this video.
-
-Let me know in case of any problems.
