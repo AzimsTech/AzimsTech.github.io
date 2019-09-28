@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Independent tech Journarlist
+subtitle: Independent Tech Journalist
 published: true
 show-avatar: false
 ---
