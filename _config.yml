@@ -33,7 +33,12 @@ navbar-links:
     - Redmi4AGcamFix: https://github.com/AzimsTech/Camera2API-MIUI10-Fix-Redmi4A
   Resources:
     - Blog repo: "https://github.com/AzimsTech/AzimsTech.github.io/"
+<<<<<<< HEAD
     - DirectLink Google Drive: "/GoogleDrive-Direct-Link/#app"
+=======
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - GitHub Pages: "https://pages.github.com/"
+>>>>>>> parent of 072f2e8... replace "github pages" to "DirectLink GD"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
