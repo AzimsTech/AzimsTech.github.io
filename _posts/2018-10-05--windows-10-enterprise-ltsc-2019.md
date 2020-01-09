@@ -68,7 +68,7 @@ For activation please use this awesome tool by s1ave77 from [Nsane forums](https
 
 {: .box-note}
 Digital License (HWID) & KMS38™ Generation - Long life KMS38™ activation (19-years license)  
-**Download:** [hwid.kms38.gen.mk6.exe](https://drive.google.com/open?id=1-ObmMJNwE4la9o3-M6hr4VUgOgVVqS5q)
+**Download:** [hwid.kms38.gen.mk6.exe](https://anonfile.com/na69L6L3nc/hwid.kms38.gen.mk6_exe)
 
 _*note: KMS38 is simply KMS activation until 2038 (not KMS for 38 years)._
 
