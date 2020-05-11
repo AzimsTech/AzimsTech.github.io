@@ -1,0 +1,29 @@
+## 1) Download the latest Nvidia driver.
+
+It is recommended you have the latest version of Nvidia/AMD Driver. Go ahead to the official website to download the driver. 
+
+NVIDIA: https://www.nvidia.com/Download/index.aspx? \
+AMD (ATI): https://www.amd.com/en/support \
+Intel: https://downloadcenter.intel.com/
+
+## 2) Download the latest Display Driver Uninstaller.
+
+Now, go ahead and download the latest DDU from the official website.
+
+Display Driver Unisntaller Official link: https://www.wagnardsoft.com/display-driver-uninstaller-ddu-
+
+## 3) Run DDU for the first time.
+
+Before you doing anything else, you need to setup DDU for the first time. You may need to skip this step if you've already done it once.
+
+![run DDU 1](https://i.imgur.com/n6Qy0Ax.png)
+
+![run DDU folder](https://i.imgur.com/z9Hi0TU.png)
+
+![open options](https://i.imgur.com/5fdm2Zq.png)
+
+![enable safe mode dialog](https://i.imgur.com/Rbntuff.png)
+
+![exit DDU](https://i.imgur.com/TLmkyha.png)
+
+![run DDU 2](https://i.imgur.com/TpBJX2t.png)
