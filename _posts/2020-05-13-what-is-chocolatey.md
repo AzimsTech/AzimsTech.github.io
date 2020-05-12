@@ -29,10 +29,8 @@ Having a package manager, makes installs of my most used software, that much eas
 
 1. Run Powershell as Administrator.
 2. Copy & paste the following command into Powershell:
-
 {: .box-note}
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
-
 3. Wait for the command to complete. 
 4. You don't see any errors, you can start using chocolatey.
 
