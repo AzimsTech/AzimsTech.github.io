@@ -18,3 +18,44 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 3. Wait for the command to complete. 
 4. You don't see any errors, you can start using chocolatey.
 
+## Using Chocolatey
+
+Before you start using chocolatey, I usualy start by disabling confirmation feature by running this command:
+~~~
+choco feature enable -n allowGlobalConfirmation
+~~~
+
+### To find a package in command line use:
+~~~
+clist googlechrome
+~~~
+
+### To  install a package:
+~~~
+cinst googlechrome
+~~~ 
+
+### To install multiple packages:
+~~~
+cinst googlechrome 7zip mpcbe
+~~~
+
+### To ignore dependencies during install
+~~~
+cinst paint.net -i
+~~~
+
+### To uninstall a package:
+~~~
+cuninst googlechrome
+~~~
+
+### To update all installed packages:
+~~~
+cup all
+~~~
+
+### To list all installed packages:
+~~~
+clist -l
+~~~
