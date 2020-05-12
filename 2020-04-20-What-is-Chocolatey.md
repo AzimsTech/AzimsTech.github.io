@@ -1,5 +1,7 @@
 ## What Is Chocolatey?
 
+![Chocolatey branding](https://i.imgur.com/fpdfcRV.png)
+
 **Chocolatey** is command line package manager for Windows just like Google Play Store in your phone but it does not come with graphical user interface. However, there's optional user interface available for those who needed. 
 
 ## Why Chocolatey is useful.
@@ -59,3 +61,9 @@ cup all
 ~~~
 clist -l
 ~~~
+
+## Research
+
+- [Official Chocolatey installation guide](https://chocolatey.org/install)
+- [Chocolatey github wiki - Commands reference](https://github.com/chocolatey/choco/wiki/CommandsReference)
+- [Level1Techs - Chocolatey: A Windows Package Manager?](https://www.youtube.com/watch?v=p7AsofW8kUY)
