@@ -4,7 +4,6 @@ published: true
 title: What is Chocolatey?
 subtitle: Want to save time? Do yourself a favor and install Chocolatey!
 date: '2020-05-13'
-image: 'https://i.imgur.com/fpdfcRV.png'
 Tags:
   - Software
   - Microsoft Edge
