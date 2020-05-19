@@ -71,11 +71,13 @@ cuninst googlechrome
 ~~~
 cup all
 ~~~
+![upgrade-example](https://i.imgur.com/cz4stS4.png)
 
 ### To list all installed packages:
 ~~~
 clist -l
 ~~~
+![list-example](https://i.imgur.com/PhBS9mO.png)
 
 ## Research
 
