@@ -64,13 +64,9 @@ Download Here
 Activation
 =================
 
-For activation please use this awesome tool by s1ave77 from [Nsane forums](https://www.nsaneforums.com/topic/312871-windows-10-digital-license-hwid-kms38%E2%84%A2-generation/):
-
 {: .box-note}
-Digital License (HWID) & KMS38™ Generation - Long life KMS38™ activation (19-years license)  
-**Download:** [hwid.kms38.gen.mk6.exe](https://anonfile.com/na69L6L3nc/hwid.kms38.gen.mk6_exe)
+For activation please use [KMS_VL_ALL_AIO by abbodi1406](https://github.com/abbodi1406/KMS_VL_ALL_AIO/releases)
 
-_*note: KMS38 is simply KMS activation until 2038 (not KMS for 38 years)._
 
 **How to check?:-** [See here.](https://i.imgur.com/aA5FA8h.png)
 
@@ -78,6 +74,6 @@ Research and alternatives
 ===============================
 
 * [The pros and cons of LTSC in the enterprise & FAQ ](https://www.youtube.com/watch?v=sJAGkFuaoK0) 
-* [Nsane Forums](https://www.nsaneforums.com/topic/312871-windows-10-digital-license-hwid-kms19™-generation)  (activation tool)
+* [abbodi1406's Batch Scripts Repo @ MDL Forums](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197/#post-1343297)
 * [MDL Threads](https://forums.mydigitallife.net/threads/discussion-windows-10-enterprise-n-ltsc-2019.76325/)
 * [Windows 10, version 1809 and Windows Server 2019 re-released](https://support.microsoft.com/en-us/help/4464619/windows-10-update-history)
