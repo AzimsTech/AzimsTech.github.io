@@ -42,6 +42,8 @@ What's New Since LTSB 2016?
 Download Here
 =================
 
+<b style="color:red">New Update!:</b> Download link is broken again. I'm working on it.
+
 <b style="color:red">Update:</b> Download link is now updated. Please report if it's broken again.
 
 <b style="color:red">Update:</b> New links are now based from Mirosoft [Re-released Windows 10 1809](https://support.microsoft.com/en-us/help/4464619/windows-10-update-history)  
@@ -58,7 +60,7 @@ Download Here
 **SHA256:** 9D7016AD77E8E95F57A4CB068C01C282A5C6468301BC2C01FB194E23F3D57DEE
 **SHA1:** 88AF607F1E752761577D21F2B7AA98692809BF66
 
-**Download link:** [Download link is updated!](https://mega.nz/#F!S24SkIAb!7bVnnSax5f7prizSt7VCLw)
+~~**Download link:** [Download link is updated!](https://mega.nz/#F!S24SkIAb!7bVnnSax5f7prizSt7VCLw)~~ 
 
 
 Activation
