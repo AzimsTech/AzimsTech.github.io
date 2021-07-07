@@ -34,7 +34,7 @@ share-img: 'https://imgur.com/3LIizmY.png'
 `int_extf .external_storage`
 7. Hit `save` & `reboot`
 
-## Other Configurations
+ Other Configurations
 > For some reason you just want to move some specific folders to microSD and leave the rest to internal storage. Well, you can do that too.
 
 1. Install the `module` from `magisk` ➡️ `reboot`.  
@@ -57,6 +57,6 @@ Please note that if you don't put `period` infront of \<sd-card folder> the pict
 - [XDA discussion thread](https://forum.xda-developers.com/t/magisk-system-2019-1-23-fbind.3621814/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTEwMzA1OTQsNzQ2NjQyOTgyLDQ0Mz
-M2OTUwMF19
+eyJoaXN0b3J5IjpbLTk2NTQwODA5OCw3NDY2NDI5ODIsNDQzMz
+Y5NTAwXX0=
 -->
