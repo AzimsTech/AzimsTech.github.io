@@ -14,6 +14,8 @@ share-img: 'https://imgur.com/nJLFumY.png'
 ---
 # Use SD Card as Internal Storage
 >  If your phone has a small amount of storage, you probably want to use an external microSD card as internal storage. So here’s how to do it:
+>  
+![enter image description here](https://imgur.com/nJLFumY.png)
 
 ## Requirements
 - Android 10 <= 
@@ -56,7 +58,7 @@ Please note that if you don't put `period` infront of \<sd-card folder> the pict
 - [XDA discussion thread](https://forum.xda-developers.com/t/magisk-system-2019-1-23-fbind.3621814/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNDkzMjMyLDc4NzAxMTEyNSwtMTg4Mj
-k4MTY0NSwxODE2NzQ3NjgxLDc0NjY0Mjk4Miw0NDMzNjk1MDBd
-fQ==
+eyJoaXN0b3J5IjpbMTQ2NjA1ODE0LDIwMTQ5MzIzMiw3ODcwMT
+ExMjUsLTE4ODI5ODE2NDUsMTgxNjc0NzY4MSw3NDY2NDI5ODIs
+NDQzMzY5NTAwXX0=
 -->
