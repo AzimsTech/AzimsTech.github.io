@@ -29,10 +29,7 @@ share-img: 'https://imgur.com/3LIizmY.png'
 4. Open `MiXplorer` ➡️ navigate to `/data/adb/vr25/fbind`
 5. Edit `config.txt` with a text edito.
 6. Paste the following code: 
-~~~
-int_extf .external_storage
-
-~~~
+`int_extf .external_storage`
 7. Hit `save` & `reboot`
 
 ## Other Configurations
@@ -57,5 +54,5 @@ Please note that if you don't put `period` infront of \<sd-card folder> the pict
 - [XDA discussion thread](https://forum.xda-developers.com/t/magisk-system-2019-1-23-fbind.3621814/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzMzY5NTAwXX0=
+eyJoaXN0b3J5IjpbNzQ2NjQyOTgyLDQ0MzM2OTUwMF19
 -->
