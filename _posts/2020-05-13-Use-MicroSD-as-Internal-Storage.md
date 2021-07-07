@@ -9,7 +9,7 @@ tags:
   - Magisk
   - How-to
   
-share-img: 'https://imgur.com/3LIizmY.png'
+share-img: 'https://imgur.com/nJLFumY.png'
 
 ---
 # Use SD Card as Internal Storage
@@ -56,6 +56,6 @@ Please note that if you don't put `period` infront of \<sd-card folder> the pict
 - [XDA discussion thread](https://forum.xda-developers.com/t/magisk-system-2019-1-23-fbind.3621814/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODI5ODE2NDUsMTgxNjc0NzY4MSw3ND
-Y2NDI5ODIsNDQzMzY5NTAwXX0=
+eyJoaXN0b3J5IjpbNzg3MDExMTI1LC0xODgyOTgxNjQ1LDE4MT
+Y3NDc2ODEsNzQ2NjQyOTgyLDQ0MzM2OTUwMF19
 -->
