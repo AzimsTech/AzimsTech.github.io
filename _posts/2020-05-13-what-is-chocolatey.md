@@ -84,3 +84,6 @@ clist -l
 - [Official Chocolatey installation guide](https://chocolatey.org/install)
 - [Chocolatey github wiki - Commands reference](https://github.com/chocolatey/choco/wiki/CommandsReference)
 - [Level1Techs - Chocolatey: A Windows Package Manager?](https://www.youtube.com/watch?v=p7AsofW8kUY)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTg0MjkyNzcyMF19
+-->
