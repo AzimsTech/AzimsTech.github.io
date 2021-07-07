@@ -24,7 +24,7 @@ share-img: 'https://imgur.com/nJLFumY.png'
 > Before doing anything, I highly recommend you to read the  documentation from GitHub repository.
 
 ## Steps
-1. Download [fbind](https://github.com/VR-25/fbind)  module from GitHub.  
+1. Download [fbind](https://github.com/VR-25/fbind/releases)  module from GitHub.  
 2. Open `Magisk` app ➡️ 🧩 `Modules` ➡️ 📦 `Install from storage`
 3. Wait install to finish.
 4. Open `MiXplorer` ➡️ navigate to `/data/adb/vr25/fbind`
@@ -56,6 +56,7 @@ Please note that if you don't put `period` infront of \<sd-card folder> the pict
 - [XDA discussion thread](https://forum.xda-developers.com/t/magisk-system-2019-1-23-fbind.3621814/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3MDExMTI1LC0xODgyOTgxNjQ1LDE4MT
-Y3NDc2ODEsNzQ2NjQyOTgyLDQ0MzM2OTUwMF19
+eyJoaXN0b3J5IjpbMjAxNDkzMjMyLDc4NzAxMTEyNSwtMTg4Mj
+k4MTY0NSwxODE2NzQ3NjgxLDc0NjY0Mjk4Miw0NDMzNjk1MDBd
+fQ==
 -->
