@@ -36,6 +36,7 @@ share-img: 'https://imgur.com/3LIizmY.png'
 
 ## Other Configurations
 > For some reason you just want to move some specific folders to microSD and leave the rest to internal storage. Well, you can do that too.
+
 1. Install the `module` from `magisk` ➡️ `reboot`.  
 2. Edit `config.txt` along the path:  `/data/adb/vr25/fbind`
 3. The  necessary folders are bind like this:  
@@ -56,6 +57,6 @@ Please note that if you don't put `period` infront of \<sd-card folder> the pict
 - [XDA discussion thread](https://forum.xda-developers.com/t/magisk-system-2019-1-23-fbind.3621814/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5MjU2MTQ0LDc0NjY0Mjk4Miw0NDMzNj
-k1MDBdfQ==
+eyJoaXN0b3J5IjpbLTE4MTEwMzA1OTQsNzQ2NjQyOTgyLDQ0Mz
+M2OTUwMF19
 -->
