@@ -51,6 +51,7 @@ from_to Download .Download
 from_to DCIM .DCIM  
 from_to Pictures .Pictures
 ~~~
+
 > Please note that if you don't put `period` infront of \<sd-card folder> the picture & video will appear twice in your `Gallery` app.
 
 # Research
@@ -58,7 +59,7 @@ from_to Pictures .Pictures
 - [XDA discussion thread](https://forum.xda-developers.com/t/magisk-system-2019-1-23-fbind.3621814/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NzIzMTUzMCwtNzIzOTgxODQsLTEyOT
+eyJoaXN0b3J5IjpbMTMxOTczMTgzNiwtNzIzOTgxODQsLTEyOT
 k2NTY4MDgsMTQ2NjA1ODE0LDIwMTQ5MzIzMiw3ODcwMTExMjUs
 LTE4ODI5ODE2NDUsMTgxNjc0NzY4MSw3NDY2NDI5ODIsNDQzMz
 Y5NTAwXX0=
