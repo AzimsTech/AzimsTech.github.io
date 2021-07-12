@@ -51,15 +51,15 @@ from_to Download .Download
 from_to DCIM .DCIM  
 from_to Pictures .Pictures
 ~~~
-Please note that if you don't put `period` infront of \<sd-card folder> the picture & video will appear twice in your `Gallery` app.
+> Please note that if you don't put `period` infront of \<sd-card folder> the picture & video will appear twice in your `Gallery` app.
 
 # Research
 - [VR-25](https://github.com/VR-25)/**[fbind](https://github.com/VR-25/fbind)** 
 - [XDA discussion thread](https://forum.xda-developers.com/t/magisk-system-2019-1-23-fbind.3621814/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MDE5OTYwLC03MjM5ODE4NCwtMTI5OT
-Y1NjgwOCwxNDY2MDU4MTQsMjAxNDkzMjMyLDc4NzAxMTEyNSwt
-MTg4Mjk4MTY0NSwxODE2NzQ3NjgxLDc0NjY0Mjk4Miw0NDMzNj
-k1MDBdfQ==
+eyJoaXN0b3J5IjpbMTk0NzIzMTUzMCwtNzIzOTgxODQsLTEyOT
+k2NTY4MDgsMTQ2NjA1ODE0LDIwMTQ5MzIzMiw3ODcwMTExMjUs
+LTE4ODI5ODE2NDUsMTgxNjc0NzY4MSw3NDY2NDI5ODIsNDQzMz
+Y5NTAwXX0=
 -->
