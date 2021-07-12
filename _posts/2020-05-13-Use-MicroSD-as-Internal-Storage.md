@@ -13,7 +13,7 @@ share-img: 'https://imgur.com/nJLFumY.png'
 
 ---
 # Use SD Card as Internal Storage
->  If your phone has a small amount of storage, you probably want to use an external microSD card as internal storage. So here’s how to do it:  
+If your phone has a small amount of storage, you probably want to use an external microSD card as internal storage. So here’s how to do it:  
 
 ![enter image description here](https://imgur.com/nJLFumY.png)
 
@@ -36,7 +36,7 @@ share-img: 'https://imgur.com/nJLFumY.png'
 7. Hit `save` & `reboot`
 
 # Other Configurations
-> For some reason you just want to move some specific folders to microSD and leave the rest to internal storage. Well, you can do that too.
+For some reason you just want to move some specific folders to microSD and leave the rest to internal storage. Well, you can do that too.
 
 1. Install the `module` from `magisk` ➡️ `reboot`.  
 2. Edit `config.txt` along the path:  `/data/adb/vr25/fbind`
@@ -58,7 +58,8 @@ Please note that if you don't put `period` infront of \<sd-card folder> the pict
 - [XDA discussion thread](https://forum.xda-developers.com/t/magisk-system-2019-1-23-fbind.3621814/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzk4MTg0LC0xMjk5NjU2ODA4LDE0Nj
-YwNTgxNCwyMDE0OTMyMzIsNzg3MDExMTI1LC0xODgyOTgxNjQ1
-LDE4MTY3NDc2ODEsNzQ2NjQyOTgyLDQ0MzM2OTUwMF19
+eyJoaXN0b3J5IjpbLTM1MDE5OTYwLC03MjM5ODE4NCwtMTI5OT
+Y1NjgwOCwxNDY2MDU4MTQsMjAxNDkzMjMyLDc4NzAxMTEyNSwt
+MTg4Mjk4MTY0NSwxODE2NzQ3NjgxLDc0NjY0Mjk4Miw0NDMzNj
+k1MDBdfQ==
 -->
