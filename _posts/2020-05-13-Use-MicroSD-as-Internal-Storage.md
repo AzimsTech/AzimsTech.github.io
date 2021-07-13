@@ -12,7 +12,6 @@ tags:
 share-img: 'https://imgur.com/nJLFumY.png'
 
 ---
-# Use SD Card as Internal Storage
 If your phone has a small amount of storage, you probably want to use an external microSD card as internal storage. So here’s how to do it:  
 
 ![enter image description here](https://imgur.com/nJLFumY.png)
@@ -59,8 +58,8 @@ from_to Pictures .Pictures
 - [XDA discussion thread](https://forum.xda-developers.com/t/magisk-system-2019-1-23-fbind.3621814/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxOTczMTgzNiwtNzIzOTgxODQsLTEyOT
-k2NTY4MDgsMTQ2NjA1ODE0LDIwMTQ5MzIzMiw3ODcwMTExMjUs
-LTE4ODI5ODE2NDUsMTgxNjc0NzY4MSw3NDY2NDI5ODIsNDQzMz
-Y5NTAwXX0=
+eyJoaXN0b3J5IjpbODk4OTkzMzg5LDEzMTk3MzE4MzYsLTcyMz
+k4MTg0LC0xMjk5NjU2ODA4LDE0NjYwNTgxNCwyMDE0OTMyMzIs
+Nzg3MDExMTI1LC0xODgyOTgxNjQ1LDE4MTY3NDc2ODEsNzQ2Nj
+QyOTgyLDQ0MzM2OTUwMF19
 -->
