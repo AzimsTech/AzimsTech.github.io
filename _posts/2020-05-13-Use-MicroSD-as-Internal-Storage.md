@@ -29,7 +29,7 @@ If your phone has a small amount of storage, you probably want to use an externa
 2. Open `Magisk` app ➡️ 🧩 `Modules` ➡️ 📦 `Install from storage`
 3. Wait install to finish.
 4. Open `MiXplorer` ➡️ navigate to `/data/adb/vr25/fbind`
-5. Edit `config.txt` with a text edito.
+5. Create `config.txt` with a text editor.
 6. Paste the following code: 
 `int_extf .external_storage`
 7. Hit `save` & `reboot`
@@ -58,8 +58,8 @@ from_to Pictures .Pictures
 - [XDA discussion thread](https://forum.xda-developers.com/t/magisk-system-2019-1-23-fbind.3621814/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4OTkzMzg5LDEzMTk3MzE4MzYsLTcyMz
-k4MTg0LC0xMjk5NjU2ODA4LDE0NjYwNTgxNCwyMDE0OTMyMzIs
-Nzg3MDExMTI1LC0xODgyOTgxNjQ1LDE4MTY3NDc2ODEsNzQ2Nj
-QyOTgyLDQ0MzM2OTUwMF19
+eyJoaXN0b3J5IjpbLTEyMTQxNDA4MTksODk4OTkzMzg5LDEzMT
+k3MzE4MzYsLTcyMzk4MTg0LC0xMjk5NjU2ODA4LDE0NjYwNTgx
+NCwyMDE0OTMyMzIsNzg3MDExMTI1LC0xODgyOTgxNjQ1LDE4MT
+Y3NDc2ODEsNzQ2NjQyOTgyLDQ0MzM2OTUwMF19
 -->
