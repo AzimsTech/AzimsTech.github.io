@@ -9,39 +9,39 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Asia/Kuala_Lumpur
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: AzimsTech # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Sharing Free Knowledge!✨ # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  I share everything new that I learn recently. No fluff, just straight-up tutorials, guides, and articles for every level. Whether you’re a newbie or a pro, you’ll find something useful here. 
 
 # Fill in the protocol & hostname for your site.
-# E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+# e.g. 'https://username.github.io', note that it does not end with a '/'.
+url: "https://azimstech.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: AzimsTech # change to your github username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: AzimsLives # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Azims
+  email: azimstech@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/azimslives # change to your twitter homepage
+    - https://github.com/AzimsTech # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.facebook.com/AzimsTech
     # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
@@ -59,7 +59,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-D1H3ME27BQ # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -95,10 +95,10 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:
+cdn: https://cdn.jsdelivr.net/gh/AzimsTech/compress/
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://github.com/azimstech.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -109,10 +109,10 @@ toc: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
-  provider: # [disqus | utterances | giscus]
+  provider: disqus # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
-    shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname: azimstech-github-io # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
     repo: # <gh-username>/<repo>
@@ -140,12 +140,15 @@ assets:
 pwa:
   enabled: true # The option for PWA feature (installable)
   cache:
-    enabled: true # The option for PWA offline cache
+    enabled: false # The option for PWA offline cache
     # Paths defined here will be excluded from the PWA cache.
     # Usually its value is the `baseurl` of another website that
     # shares the same domain name as the current website.
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
+      - "/mysoftwarelist"
+      - "/OpenWrt-Builder"
+      - "/OpenWrt-Builder/*"
 
 paginate: 10
 
