@@ -21,9 +21,9 @@ Here's how to get the six special Windows 11 SE themes (exclusive to the Surface
 
 1. Simply Copy & Paste this command in CMD/PowerShell:
 
-    ```cmd
-    reg add "HKLM\SOFTWARE\Microsoft\PolicyManager\current\device\Education" /v EnableEduThemes /t REG_DWORD /d 1 /f
-    ```
+```console
+reg add "HKLM\SOFTWARE\Microsoft\PolicyManager\current\device\Education" /v EnableEduThemes /t REG_DWORD /d 1 /f
+```
 2. Reboot
 
 > These themes won't be visible at first; wait until they're downloaded.
@@ -31,6 +31,6 @@ Here's how to get the six special Windows 11 SE themes (exclusive to the Surface
 
 Here's command undo it:
 
-```cmd
+```console
 reg delete "HKLM\SOFTWARE\Microsoft\PolicyManager\current\device\Education" /f
 ```
