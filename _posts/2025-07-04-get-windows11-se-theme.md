@@ -15,7 +15,7 @@ It is designed to run on inexpensive, low-end laptops for students from kinderga
 
 It is set to be discontinued in October 2026. If you would like to learn more about Windows 11 SE, [click here](https://archive.is/%20Be3J).  
 
-
+![themes screenshot](11se themes..png)
 
 Here's how to get the six special Windows 11 SE themes (exclusive to the Surface Laptop SE). 
 
