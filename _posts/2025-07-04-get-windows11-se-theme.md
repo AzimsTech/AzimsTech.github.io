@@ -36,4 +36,4 @@ reg delete "HKLM\SOFTWARE\Microsoft\PolicyManager\current\device\Education" /f
 ```
 ## Theme preview
 
-![themes screenshot](11se themes.png)
+![themes screenshot](11se-themes.png)
